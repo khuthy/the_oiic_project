@@ -1,0 +1,271 @@
+
+      new FormField<string>({
+        controlType: "textbox",
+        groupID: 1,
+        key: 'name',
+        label: 'Full Name',
+        required: true,
+        order: 5,
+        upload: false
+      }),
+ 
+      new FormField<string>({
+        controlType: 'array',
+        key: 'HR',
+        label: 'Human resource',
+        required: false,
+        order: 2,
+        upload: true,
+        children: [
+         
+        new FormField<string>({
+          controlType: "textbox",
+          groupID: 1,
+          key: 'name',
+          label: 'Full Name',
+          required: true,
+          placeholder: "Enter your name",
+          order: 5,
+          upload: false,
+          options: [{key: 'man', value: 'man'}], children: [] , multiple: true, validator: 'sss',
+        }
+        ),
+        new FormField<string>({
+          controlType: "textbox",
+          groupID: 1,
+          key: 'name',
+          label: 'Full Name',
+          required: true,
+          placeholder: "Enter your name",
+          order: 5,
+          upload: false,
+          options: [{key: 'man', value: 'man'}], children: [] , multiple: true, validator: 'sss',
+        }) 
+        ]
+      }), 
+      
+     new FormField<string>({
+        controlType: "array",
+        groupID: 1,
+        key: 'doctor',
+        upload: true,
+        order: 3,
+        children: [
+         
+          new FormField<string>({
+            controlType: "textbox",
+            groupID: 1,
+            key: 'name',
+            label: 'Full Name',
+            required: true,
+            placeholder: "Enter your name",
+            order: 5,
+            upload: false,
+            options: [{key: 'man', value: 'man'}], multiple: true, validator: 'sss',
+          }
+          ),
+          new FormField<string>({
+            controlType: "textbox",
+            groupID: 1,
+            key: 'name',
+            label: 'Full Name',
+            required: true,
+            placeholder: "Enter your name",
+            order: 5,
+            upload: false,
+            options: [{key: 'man', value: 'man'}], multiple: true, validator: 'sss',
+          }) 
+          ]
+      }),  
+       new FormField<string>({
+        controlType: "array",
+        groupID: 1,
+        key: 'complex',
+        upload: false,
+        children: [
+         
+          new FormField<string>({
+            controlType: "textbox",
+            groupID: 1,
+            key: 'name',
+            label: 'Full Name',
+            required: true,
+            placeholder: "Enter your name",
+            order: 5,
+            upload: false,
+            options: [{key: 'man', value: 'man'}], children: [] , multiple: true, validator: 'sss',
+          }),
+          new FormField<string>({
+            controlType: "textarea",
+            groupID: 1,
+            key: 'message',
+            label: 'Message',
+            required: true,
+            placeholder: "Enter your message",
+            order: 5,
+            upload: false,
+            validator: 'sss',
+          }),
+          new FormField<string>({
+            controlType: "group",
+            groupID: 1,
+            key: 'gggg',
+            label: 'Message',
+            order: 5,
+            upload: false,
+            children: [
+         
+              new FormField<string>({
+                controlType: "textbox",
+                groupID: 1,
+                key: 'name',
+                label: 'Full Name',
+                required: true,
+                placeholder: "Enter your name",
+                order: 5,
+                upload: false,
+                options: [{key: 'man', value: 'man'}], children: [] , multiple: true, validator: 'sss',
+              }),
+              new FormField<string>({
+                controlType: "textarea",
+                groupID: 1,
+                key: 'message',
+                label: 'Message',
+                required: true,
+                placeholder: "Enter your message",
+                order: 5,
+                upload: false,
+                validator: 'sss',
+              })
+             
+              ]
+           
+          })  
+          ]
+      }), 
+      
+      new FormField<string>({
+        controlType: "group",
+        groupID: 1,
+        key: 'Address',
+        upload: true,
+        children: [
+          new FormField<string>({
+            controlType: "dropdown",
+            groupID: 1,
+            key: 'name',
+            label: 'Full Name',
+            required: true,
+            placeholder: "Enter your name",
+            order: 5,
+            upload: false,
+            options: [{key: 'man', value: 'man'}]
+          }),
+          new FormField<string>({
+            controlType: "textbox",
+            groupID: 1,
+            key: 'name',
+            label: 'Full Name',
+            required: true,
+            placeholder: "Enter your name",
+            order: 5,
+            upload: false
+          }),
+          new FormField<string>({
+            controlType: "textbox",
+            groupID: 1,
+            key: 'name',
+            label: 'Full Name',
+            required: true,
+            placeholder: "Enter your name",
+            order: 5,
+            upload: false
+          }),
+          new FormField<string>({
+            controlType: "textbox",
+            groupID: 1,
+            key: 'name',
+            label: 'Full Name',
+            required: true,
+            placeholder: "Enter your name",
+            order: 5,
+            upload: false
+          }),
+          new FormField<string>({
+            controlType: "textbox",
+            groupID: 1,
+            key: 'name',
+            label: 'Full Name',
+            required: true,
+            placeholder: "Enter your name",
+            order: 5,
+            upload: false
+          }),
+
+        ],
+        order: 5
+      }),
+
+      new FormField<string>({
+        controlType: "textbox",
+        key: 'email',
+        groupID: 1,
+        label: 'Email',
+        placeholder: 'Enter your email address',
+        type: 'email',
+        required: true,
+        validator: "email",
+        order: 2
+      }),
+
+      new FormField<string>({
+        controlType: "dropdown",
+        key: 'country',
+        groupID: 1,
+        label: 'Country',
+        multiple: true,
+        upload: true,
+        options: [
+          {key: 'usa',  value: 'United States of America'},
+          {key: 'br',  value: 'Brazil'},
+          {key: 'other',   value: 'Other'},
+          {key: 'usa',  value: 'United States of America'},
+          {key: 'br',  value: 'Brazil'},
+          {key: 'other',   value: 'Other'}
+        ],
+        order: 3
+      }),
+
+      new FormField<string>({
+        controlType: "checkbox",
+        key: 'agree',
+        groupID: 1,
+        label: 'I accept terms and services',
+        type: 'checkbox',
+        required: true,
+        order: 4
+      }),
+      
+
+      new FormField<string>({
+        controlType: "radio",
+        key: 'sex',
+        label: 'Sex',
+        groupID: 1, 
+        type: 'radio',
+        options: [
+          {key: 'male',  value: 'Male'},
+          {key: 'female',  value: 'Female'}
+        ],
+        order: 5
+      }),
+
+      new FormField<string>({
+        controlType: "textarea",
+        groupID: 1,
+        key: 'message',
+        label: 'Mesage',
+        type: 'textarea',
+        value: 'Example',
+        order: 6
+      })

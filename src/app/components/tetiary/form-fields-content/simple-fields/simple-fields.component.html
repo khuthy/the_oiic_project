@@ -1,0 +1,39 @@
+<div [formGroup]="form">
+
+    <div [ngSwitch]="ngSwitch">
+     
+        <ion-item lines="none" *ngSwitchCase="'textbox'">
+            <ion-label position="stacked">{{input.label}}</ion-label>
+            <ion-input [formControlName]="input.key" [type]="input.type"></ion-input>
+            <ion-button *ngIf="input.upload" slot="end" color="warning" (click)="uploadComponent.emit(input.key)">
+                <ion-icon name="document-outline"></ion-icon>
+            </ion-button>
+        </ion-item>
+        
+        <ion-item lines="none" *ngSwitchCase="'textarea'">
+            <ion-label position="stacked">{{input.label}}</ion-label>
+            <ion-textarea [formControlName]="input.key"></ion-textarea>
+            
+            <ion-button *ngIf="input.upload" slot="end" color="warning" (click)="uploadComponent.emit(input.key)">
+                <ion-icon name="document-outline"></ion-icon>
+            </ion-button>
+        </ion-item>
+        <ion-item *ngSwitchCase="'dropdown'" lines="none">
+            <ion-label position="stacked">{{input.label}}</ion-label>
+            <ion-select  [multiple]="input.multiple" [placeholder]="input.placeholder" [formControlName]="input.key">
+                
+                <ion-select-option *ngFor="let option of input.options" [value]="option.key">{{option.value}}</ion-select-option>
+            </ion-select>
+            <ion-button *ngIf="input.upload" slot="end" color="warning" (click)="uploadComponent.emit(input.key)">
+                <ion-icon name="document-outline"></ion-icon>
+            </ion-button>
+        </ion-item>
+       
+         <p *ngSwitchCase="'group'">
+        
+         </p>
+         <p *ngSwitchCase="'array'">
+          
+         </p> 
+    </div>
+</div>

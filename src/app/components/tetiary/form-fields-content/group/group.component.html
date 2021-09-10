@@ -1,0 +1,59 @@
+<div [formGroup]="form" *ngIf="form">
+  <div [ngSwitch]="ngSwitch">
+      
+    <ion-grid *ngSwitchCase="'group'">
+      <ion-row [formGroupName]="input.key">
+          <ion-list-header color="warning">
+              <ion-label>
+                  {{input.key}} 
+              </ion-label>
+              <ion-buttons>
+                  <ion-button  slot="end" color="dark" (click)="uploadComponent.emit(input.key)">
+                      <ion-icon name="document-outline"></ion-icon>
+                      Uploads 
+                  </ion-button>
+              </ion-buttons>
+          </ion-list-header>
+          <ion-col *ngFor="let child of input.children" size="12" size-md >
+           
+            <div [ngSwitch]="child.controlType">
+                
+              <!-- <app-simple-fields [controlType]="child.controlType" [input]="child" (uploder)="uploadComponent(child.key)" [form]="form"></app-simple-fields> -->
+              <ion-item lines="none" *ngSwitchCase="'textbox'">
+                <ion-label position="stacked">{{child.label}}</ion-label>
+                <ion-input [formControlName]="child.key" [type]="child.type"></ion-input>
+                <ion-button *ngIf="child.upload" slot="end" color="warning" (click)="uploadComponent.emit(child.key)">
+                    <ion-icon name="document-outline"></ion-icon>
+                </ion-button>
+            </ion-item>
+            
+            <ion-item lines="none" *ngSwitchCase="'textarea'">
+                <ion-label position="stacked">{{child.label}}</ion-label>
+                <ion-textarea [formControlName]="child.key"></ion-textarea>
+                
+                <ion-button *ngIf="child.upload" slot="end" color="warning" (click)="uploadComponent.emit(child.key)">
+                    <ion-icon name="document-outline"></ion-icon>
+                </ion-button>
+            </ion-item>
+            <ion-item *ngSwitchCase="'dropdown'" lines="none">
+                <ion-label position="stacked">{{child.label}}</ion-label>
+                <ion-select  [multiple]="child.multiple" [placeholder]="child.placeholder" [formControlName]="child.key">
+                    
+                    <ion-select-option *ngFor="let option of child.options" [value]="option.key">{{option.value}}</ion-select-option>
+                </ion-select>
+                <ion-button *ngIf="child.upload" slot="end" color="warning" (click)="uploadComponent.emit(child.key)">
+                    <ion-icon name="document-outline"></ion-icon>
+                </ion-button>
+            </ion-item> 
+                     
+            </div>   
+                 
+              
+          </ion-col>
+          
+      </ion-row>
+     
+    </ion-grid>
+  </div>
+</div>
+

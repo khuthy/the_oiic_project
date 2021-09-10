@@ -1,0 +1,170 @@
+<div [formGroup]="form">
+  <div [ngSwitch]="ngSwitch">
+      
+    <ion-grid *ngSwitchCase="'array'" [formArrayName]="input.key" >
+               
+      <ion-row>
+          <ion-col size="12">
+              <ion-list-header>
+                  <ion-title>{{input.key}}</ion-title>
+              </ion-list-header>
+      </ion-col>
+    </ion-row>
+      <ion-row *ngFor="let child of getFormArray(input.key).controls; let i=index;" [formGroupName]="i">
+          <ion-col class="array-col"  *ngFor="let child of input.children;let j=index;" size="12" size-md>
+           
+       
+              <div [ngSwitch]="child.controlType">
+                  <ion-item-divider color="primary" *ngIf="i < 1">
+                      <ion-label>{{child.key}} {{i + 1}}</ion-label>
+                  </ion-item-divider>
+                  <ion-item-group [ngSwitch]="child.controlType">
+                
+                     
+                <ion-item lines="none" *ngSwitchCase="'textbox'">
+                  <ion-label position="stacked">{{child.label}}</ion-label>
+                  <ion-input [formControlName]="child.key" [type]="child.type"></ion-input>
+                  <ion-button *ngIf="child.upload" slot="end" color="warning" (click)="uploadComponent.emit(child.key)">
+                      <ion-icon name="document-outline"></ion-icon>
+                  </ion-button>
+              </ion-item>
+              
+              <ion-item lines="none" *ngSwitchCase="'textarea'">
+                  <ion-label position="stacked">{{child.label}}</ion-label>
+                  <ion-textarea [formControlName]="child.key"></ion-textarea>
+                  
+                  <ion-button *ngIf="child.upload" slot="end" color="warning" (click)="uploadComponent.emit(child.key)">
+                      <ion-icon name="document-outline"></ion-icon>
+                  </ion-button>
+              </ion-item>
+              <ion-item *ngSwitchCase="'dropdown'" lines="none">
+                  <ion-label position="stacked">{{child.label}}</ion-label>
+                  <ion-select  [multiple]="child.multiple" [placeholder]="child.placeholder" [formControlName]="child.key">
+                      
+                      <ion-select-option *ngFor="let option of child.options" [value]="option.key">{{option.value}}</ion-select-option>
+                  </ion-select>
+                  <ion-button *ngIf="child.upload" slot="end" color="warning" (click)="uploadComponent.emit(child.key)">
+                      <ion-icon name="document-outline"></ion-icon>
+                  </ion-button>
+              </ion-item>
+                     
+                    
+                          
+              <ion-grid *ngSwitchCase="'group'">
+                <ion-row [formGroupName]="child.key">
+                    <ion-list-header color="warning">
+                        <ion-label>
+                            {{child.key}} 
+                        </ion-label>
+                        <ion-buttons>
+                            <ion-button  slot="end" color="dark" (click)="uploadComponent.emit(child.key)">
+                                <ion-icon name="document-outline"></ion-icon>
+                                Uploads 
+                            </ion-button>
+                        </ion-buttons>
+                    </ion-list-header>
+                    <ion-col *ngFor="let childb of child.children" size="12" size-md >
+                      <div [ngSwitch]="childb.controlType">
+                        <ion-item lines="none" *ngSwitchCase="'textbox'">
+                          <ion-label position="stacked">{{childb.label}}</ion-label>
+                          <ion-input [formControlName]="childb.key" [type]="childb.type"></ion-input>
+                          <ion-button *ngIf="childb.upload" slot="end" color="warning" (click)="uploadComponent.emit(childb.key)">
+                              <ion-icon name="document-outline"></ion-icon>
+                          </ion-button>
+                      </ion-item>
+                      
+                      <ion-item lines="none" *ngSwitchCase="'textarea'">
+                          <ion-label position="stacked">{{childb.label}}</ion-label>
+                          <ion-textarea [formControlName]="childb.key"></ion-textarea>
+                          
+                          <ion-button *ngIf="childb.upload" slot="end" color="warning" (click)="uploadComponent.emit(childb.key)">
+                              <ion-icon name="document-outline"></ion-icon>
+                          </ion-button>
+                      </ion-item>
+                      <ion-item *ngSwitchCase="'dropdown'" lines="none">
+                          <ion-label position="stacked">{{childb.label}}</ion-label>
+                          <ion-select  [multiple]="childb.multiple" [placeholder]="childb.placeholder" [formControlName]="childb.key">
+                              
+                              <ion-select-option *ngFor="let option of childb.options" [value]="option.key">{{option.value}}</ion-select-option>
+                          </ion-select>
+                          <ion-button *ngIf="childb.upload" slot="end" color="warning" (click)="uploadComponent.emit(childb.key)">
+                              <ion-icon name="document-outline"></ion-icon>
+                          </ion-button>
+                      </ion-item>
+                               
+                      </div>   
+                           
+                        
+                    </ion-col>
+                    
+                </ion-row>
+               
+              </ion-grid>
+    
+                      
+                     
+                      <!-- <div *ngSwitchCase="'group'">
+                          <div *ngFor="let finalChild of child.children">
+                              <app-simple-fields 
+                              [controlType]="finalChild.controlType" 
+                              [input]="finalChild" 
+                              (uploder)="uploadComponent(finalChild.key)"
+                              [form]="form">
+    
+                              </app-simple-fields>
+                          </div>
+                      </div>  -->
+                      <div *ngSwitchCase="'array'">
+                          good
+                   <!--      <div *ngFor="let finalChild of getFormArray(child.key).controls; let b=index;" [formGroupName]="b">
+                            {{child.key | json}}
+                          <div  *ngFor="let finalChild of child.children;let j=index;">
+                              <div [ngSwitch]="finalChild.controlType">
+                                   <app-simple-fields 
+                                  [controlType]="finalChild.controlType" 
+                                  [input]="finalChild" 
+                                  (uploder)="uploadComponent.emit(finalChild.key)"
+                                  [form]="form">
+    
+                                  </app-simple-fields> 
+                                  array
+                              </div>
+    
+                          </div>
+                        </div> -->  
+                      </div> 
+                  </ion-item-group>
+                  
+              </div>
+            
+          </ion-col>
+          <ion-col size="12" size-md class="array-col">
+              <ion-item-group>
+                  <ion-item-divider color="primary" *ngIf="i < 1">
+                      <ion-label>+/-</ion-label>
+                      <ion-button *ngIf="input.upload" color="primary" slot="end" (click)="uploadComponent.emit(i)">
+                          <ion-icon slot="icon-only" name="document-outline"></ion-icon>
+                          Uploads
+                      </ion-button>
+                  </ion-item-divider>
+    
+                  <ion-item lines="none" lines="none">
+                      <ion-button expand="block" *ngIf="i > 0" color="danger" (click)="removeArrayGroup(input.key, i)"><ion-icon slot="icon-only" name="trash"></ion-icon></ion-button>
+                      <ion-button expand="block" (click)="addArrayGroup(input.key, input.children)"><ion-icon slot="icon-only" name="add"></ion-icon></ion-button>
+                      <ion-button color="warning" (click)="uploadComponent.emit(i)">
+                          <ion-icon name="document-outline"></ion-icon>
+                      </ion-button>
+                  </ion-item>
+                  </ion-item-group>
+                  
+            
+          </ion-col> 
+          </ion-row>
+    
+    
+    
+    </ion-grid>    
+  </div>
+</div>
+
+ 

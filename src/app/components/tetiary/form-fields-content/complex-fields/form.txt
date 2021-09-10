@@ -1,0 +1,74 @@
+<ion-grid>
+  <fieldset>
+    <legend>Caption</legend>
+     <ion-row >
+      <ion-col size="12" size-sm>
+        <ion-item [ngSwitch]="ball">
+          <ion-label position="floating">H2 Title</ion-label>
+          
+        </ion-item>
+      </ion-col>
+      <ion-col size="12" size-sm>
+        <ion-button>
+        <ion-icon name="add"></ion-icon>
+        <ion-label>Photo</ion-label>
+      </ion-button>
+    </ion-col>
+  </ion-row>
+</fieldset>
+ </ion-grid>
+
+
+ <ion-content>
+  <ion-header class="ion-no-border">
+    <ion-toolbar>
+      <ion-title>
+        {{title}}
+      </ion-title>
+      <ion-buttons slot="end">
+        <ion-button (click)="closeModal()">
+          <ion-icon slot="icon-only" name="close"></ion-icon>
+        </ion-button>
+      </ion-buttons>
+    </ion-toolbar>
+  </ion-header>
+   <ion-grid>
+     <ion-row>
+       <ion-col size="12">
+        <ion-card>
+          <ion-card-header></ion-card-header>
+          <ion-card-content>
+            <canvas #barCanvas></canvas>
+          </ion-card-content>
+        </ion-card>
+       </ion-col>
+      <!--  <ion-col size="6">
+        <ion-card>
+          <ion-card-header> Divisional Overall Score (Previous Year score)</ion-card-header>
+          <ion-card-content>
+            <canvas #barCanvas2></canvas>
+          </ion-card-content>
+        </ion-card>
+       </ion-col> -->
+      
+     <!--   <ion-col size="6">
+        <ion-card>
+          <ion-card-header> SOOG - Compulsury for all (Previous Year's Score)</ion-card-header>
+          <ion-card-content>
+            <canvas #barCanvas4></canvas>
+          </ion-card-content>
+        </ion-card>
+       </ion-col>
+       <ion-col size="6">
+        <ion-card>
+          <ion-card-header> SOOG 3.4 - Access to ICASA Services (Previous Year's Score)</ion-card-header>
+          <ion-card-content>
+            <canvas #barCanvas3></canvas>
+          </ion-card-content>
+        </ion-card>
+       </ion-col> -->
+     </ion-row>
+   
+    
+   </ion-grid>
+ </ion-content>

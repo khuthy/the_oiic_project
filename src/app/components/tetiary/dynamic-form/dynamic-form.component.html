@@ -1,0 +1,52 @@
+<div [formGroup]="form" class="form-group" *ngIf="form">
+
+    <div [ngSwitch]="input.controlType">
+
+    <app-simple-fields [filter]="filter" [controlType]="input.controlType" [input]="input" (uploder)="uploadComponent(input.key)" [form]="form"></app-simple-fields>
+      
+       <app-group [filter]="filter" [controlType]="input.controlType" [input]="input" (uploader)="uploadComponent(input.key)" [form]="form"></app-group>
+
+       <app-complex-fields [filter]="filter" [controlType]="input.controlType" [input]="input" (uploader)="uploadComponent(input.key)" [form]="form"></app-complex-fields>
+<!-- 
+      <ion-item *ngSwitchCase="'textbox'">
+        <ion-label position="floating" [attr.for]="input.key">{{input.label}}</ion-label>
+        <ion-input class="form-control" [formControlName]="input.key" [id]="input.key" [type]="input.type"></ion-input>
+      </ion-item>
+
+      <ion-item *ngSwitchCase="'dropdown'">
+        <ion-label position="floating" [attr.for]="input.key">{{input.label}}</ion-label>
+        <ion-select [multiple]="input.multiple" class="custom-select" [id]="input.key" [formControlName]="input.key">
+          <ion-select-option  *ngFor="let opt of input.options" [value]="opt.key">
+            {{opt.value}}</ion-select-option >
+        </ion-select>
+      </ion-item>
+
+     
+          <ion-item *ngSwitchCase="'checkbox'">
+            <ion-label [attr.for]="input.key">{{input.label}}</ion-label>
+            <ion-checkbox slot="end" [formControlName]="input.key" [id]="input.key"></ion-checkbox>
+          </ion-item>
+   
+
+  
+
+      <ion-list *ngSwitchCase="'radio'">
+        <ion-radio-group [formControlName]="input.key">
+          <ion-list-header>
+            <ion-label>Name</ion-label>
+          </ion-list-header>
+          <ion-item  *ngFor="let opt of input.options; let i=index">
+            <ion-label [attr.for]="opt.key">{{ opt.value }}</ion-label>
+            <ion-radio slot="start"  [value]="opt.value"></ion-radio>
+          </ion-item>
+
+        </ion-radio-group>
+      </ion-list>
+    
+      <ion-item *ngSwitchCase="'textarea'">
+        <ion-label position="floating" [attr.for]="input.key">{{input.label}}</ion-label>
+        <ion-textarea [value]="input.value" [formControlName]="input.key" [id]="input.key"></ion-textarea>
+      </ion-item> -->
+    </div>
+
+</div>

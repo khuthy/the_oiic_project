@@ -1,28 +1,52 @@
 <ion-app>
   <ion-split-pane contentId="main-content">
-    <ion-menu contentId="main-content" type="overlay">
+
+    <ion-menu contentId="main-content" side="start" type="overlay" menuId="custom" class="my-custom-menu">
+      <ion-header class="ion-no-border">
+        <ion-toolbar>
+          <ion-buttons slot="start">
+            <ion-avatar slot="start">
+              <img [src]="companyDetails.logo" />
+            </ion-avatar>
+          </ion-buttons>
+          <ion-title><h5><strong>{{companyDetails.companyName}}</strong></h5> <p><small>{{companyDetails.slogan}}</small></p> </ion-title>
+        </ion-toolbar>
+      </ion-header>
       <ion-content>
         <ion-list id="inbox-list">
-          <ion-list-header>Inbox</ion-list-header>
-          <ion-note>hi@ionicframework.com</ion-note>
-
-          <ion-menu-toggle auto-hide="false" *ngFor="let p of appPages; let i = index">
-            <ion-item routerDirection="root" [routerLink]="[p.url]" lines="none" detail="false" routerLinkActive="selected">
-              <ion-icon slot="start" [ios]="p.icon + '-outline'" [md]="p.icon + '-sharp'"></ion-icon>
-              <ion-label>{{ p.title }}</ion-label>
-            </ion-item>
-          </ion-menu-toggle>
-        </ion-list>
-
-        <ion-list id="labels-list">
-          <ion-list-header>Labels</ion-list-header>
-
-          <ion-item *ngFor="let label of labels" lines="none">
-            <ion-icon slot="start" ios="bookmark-outline" md="bookmark-sharp"></ion-icon>
-            <ion-label>{{ label }}</ion-label>
-          </ion-item>
+          
+          <div *ngFor="let p of appPages | async; let i = index" >
+            <ion-menu-toggle auto-hide="false" >
+           
+              <ion-item routerDirection="root"  lines="none" detail="false" routerLinkActive="selected" (click)="p.selected = !p.selected;">
+                
+                <ion-icon *ngIf="!p.selected" slot="end" mode="ios" name="chevron-forward-outline" size="small"></ion-icon>
+                <ion-icon *ngIf="p.selected" slot="end" mode="ios" name="chevron-down-outline" size="small"></ion-icon>
+                <ion-icon slot="start" [ios]="p['@attributes'].icon + '-outline'" [md]="p['@attributes'].icon + '-outline'"></ion-icon> 
+                <ion-label>{{ p['@attributes'].Text }}</ion-label>
+              </ion-item>
+            </ion-menu-toggle>
+            <div *ngIf="p.selected" color="light">
+              <ion-item class="submenu" *ngFor="let sub of p['link']" detail="false" lines="none" button (click)="buttonClick()" routerDirection="root" [routerLink]="[sub.url]">
+                <ion-icon slot="start" [ios]="sub['@attributes'].icon + '-outline'" [md]="sub['@attributes'].icon + '-outline'"></ion-icon> 
+                <ion-label>{{sub['@attributes'].Text}}</ion-label>
+              </ion-item>
+            </div>
+           
+          </div>
+      
         </ion-list>
       </ion-content>
+      <ion-footer class="ion-no-border">
+        <ion-toolbar color="light">
+         <ion-buttons slot="end">
+           <ion-button color="success" (click)="helpPopOver($event)">
+             <ion-icon slot="end" name="help"></ion-icon>
+             Help
+           </ion-button>
+         </ion-buttons>
+        </ion-toolbar>
+      </ion-footer>
     </ion-menu>
     <ion-router-outlet id="main-content"></ion-router-outlet>
   </ion-split-pane>

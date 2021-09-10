@@ -24,3 +24,24 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+* {
+  font-family: 'poppins' !important;
+}
+p, h2, h5 {
+  font-size: 14px;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+ion-split-pane {
+    --side-width: 300px;
+  
+  }
+   .my-custom-class .modal-wrapper {
+    border-radius: 13px;
+  
+  } 
+
+  *::selection {
+  cursor: text;
+  }

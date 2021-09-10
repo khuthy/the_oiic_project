@@ -1,0 +1,15 @@
+<ion-toolbar color="light">
+ <ion-segment scrollable (ionChange)="segmentChanged($event)">
+<ion-segment-button *ngFor="let t of filteredTabs;let i=index;" [value]="t.tabID">
+    <ion-label>{{t.title}}</ion-label>
+  </ion-segment-button>
+</ion-segment> 
+<!-- <ion-buttons slot="end" *ngFor="let t of filteredTabs;let i=index;">
+  <ion-button (click)="changeTabs(t.tabID)" size="large">
+    {{t.title}}
+  </ion-button>
+</ion-buttons> -->
+
+</ion-toolbar>
+
+<app-tab-content [selected]="seletedTab"></app-tab-content> 

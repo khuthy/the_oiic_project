@@ -1,0 +1,21 @@
+ion-item {
+    
+     --padding-bottom: 3%;
+--padding-end: 'none';
+/* --padding-start	: 3%; */
+--padding-top: 'none'; 
+
+}
+ ion-input, ion-textarea, ion-select {
+    border: 1px solid rgb(195, 195, 195);
+    border-radius: 5px;
+    margin-top: 1%;
+    --padding-start: 2px !important; 
+    font-size: 13px;
+}
+
+
+ion-icon {
+    margin: "none";
+    padding: "none";
+}

@@ -1,0 +1,117 @@
+
+<form [formGroup]="form" (ngSubmit)="onSubmit()">
+    <div *ngFor="let input of formFields">
+
+        <div [ngSwitch]="input.controlType">
+           
+            <app-simple-fields [controlType]="input.controlType" [input]="input" (uploder)="uploadComponent(input.key)" [form]="form"></app-simple-fields>
+         
+            <app-group [controlType]="input.controlType" [input]="input" (uploader)="uploadComponent(input.key)" [form]="form"></app-group>
+            
+         <ion-grid *ngSwitchCase="'array'" [formArrayName]="input.key">
+               
+                    <ion-row>
+                        <ion-col size="12">
+                            <ion-list-header>
+                                <ion-title>{{input.key}}</ion-title>
+                            </ion-list-header>
+                    </ion-col>
+                </ion-row>
+                    <ion-row *ngFor="let child of getFormArray(input.key).controls; let i=index;" [formGroupName]="i">
+                        <ion-col class="array-col"  *ngFor="let child of input.children;let j=index;" size="12" size-md>
+                         
+                     
+                            <div [ngSwitch]="child.controlType">
+                                <ion-item-divider color="primary" *ngIf="i < 1">
+                                    <ion-label>{{child.key}} {{i + 1}}</ion-label>
+                                </ion-item-divider>
+                                <ion-item-group [ngSwitch]="child.controlType">
+                              
+                                   <app-simple-fields 
+                                    [controlType]="child.controlType" 
+                                    [input]="child" 
+                                    (uploder)="uploadComponent(child.key)"
+                                    [form]="form">
+
+                                    </app-simple-fields>
+                                   
+                                  
+                                        
+                                        <app-group 
+                                        [controlType]="child.controlType" 
+                                        [input]="child" 
+                                        (uploder)="uploadComponent(child.key)"
+                                        [form]="form"></app-group>
+
+                                    
+                                   
+                                    <div *ngSwitchCase="'group'">
+                                        <div *ngFor="let finalChild of child.children">
+                                            <app-simple-fields 
+                                            [controlType]="finalChild.controlType" 
+                                            [input]="finalChild" 
+                                            (uploder)="uploadComponent(finalChild.key)"
+                                            [form]="form">
+        
+                                            </app-simple-fields>
+                                        </div>
+                                    </div> 
+                                    <div *ngSwitchCase="'array'">
+                                      <div *ngFor="let finalChild of getFormArray(child.key).controls; let b=index;" [formGroupName]="b">
+                                          {{child.key | json}}
+                                        <div  *ngFor="let finalChild of child.children;let j=index;">
+                                            <div [ngSwitch]="finalChild.controlType">
+                                                <app-simple-fields 
+                                                [controlType]="finalChild.controlType" 
+                                                [input]="finalChild" 
+                                                (uploder)="uploadComponent(finalChild.key)"
+                                                [form]="form">
+            
+                                                </app-simple-fields>
+                                            </div>
+
+                                        </div>
+                                      </div>  
+                                    </div> 
+                                </ion-item-group>
+                                
+                            </div>
+                          
+                        </ion-col>
+                        <ion-col size="12" size-md class="array-col">
+                            <ion-item-group>
+                                <ion-item-divider color="primary" *ngIf="i < 1">
+                                    <ion-label>+/-</ion-label>
+                                    <ion-button *ngIf="input.upload" color="primary" slot="end" (click)="uploadComponent(i)">
+                                        <ion-icon slot="icon-only" name="document-outline"></ion-icon>
+                                        Uploads
+                                    </ion-button>
+                                </ion-item-divider>
+
+                                <ion-item lines="none" lines="none">
+                                    <ion-button expand="block" *ngIf="i > 0" color="danger" (click)="removeArrayGroup(input.key, i)"><ion-icon slot="icon-only" name="trash"></ion-icon></ion-button>
+                                    <ion-button expand="block" (click)="addArrayGroup(input.key, input.children)"><ion-icon slot="icon-only" name="add"></ion-icon></ion-button>
+                                    <ion-button color="warning" (click)="uploadComponent(i)">
+                                        <ion-icon name="document-outline"></ion-icon>
+                                    </ion-button>
+                                </ion-item>
+                                </ion-item-group>
+                                
+                          
+                        </ion-col> 
+                        </ion-row>
+           
+               
+                
+            </ion-grid> 
+        </div>
+    </div>
+    <div class="form-group" *ngIf="formFields != []">
+        <button type="submit" class="btn btn-primary" [disabled]="form.invalid">Save</button>
+      </div>
+ 
+  
+    <div *ngIf="payLoad && formFields != []" class="form-group">
+      <strong>Here's the payload</strong><br>{{payLoad}}
+    </div>
+</form>

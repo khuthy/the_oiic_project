@@ -1,0 +1,1254 @@
+ </tr><tr OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar.asp?sas7_6386=4&amp;sas8_6386=5&amp;stas_6386=4,5&amp;p=4_1515_11_38&amp;pv=r&amp;qas7=4&amp;qas8=5&amp;tas=4,5&#39;);" style="cursor:pointer;">
+            <td align="right" style="background-color:LightGrey;border-color:#ddd;">[Average Score]&nbsp;:&nbsp;</td><td style="background-color:LightGrey;border-color:#ddd;"> [4]</td><td style="background-color:LightGrey;border-color:#ddd;"> [5]</td><td style="background-color:LightGrey;border-color:#ddd;"><span style="font-weight:bold;"> [4,5]</span></td>
+          </tr><tr style="background-color:Transparent;">
+            <td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/pie.asp?p=4_1515_11_8&amp;pv=r&amp;gwa8=0&amp;gwr8=0&amp;gwa24=0&amp;gwr24=0&amp;gwa38=0&amp;gwr38=0&amp;gwa40=0&amp;gwr40=0&amp;typ=pie&#39;);" rowspan="2" style="background-color:White;border-color:#ddd;cursor:pointer;"><b>2.4. Finance KPA for all non-financial Man, SM and EXEC</b><br/><font color='Teal'>0 [0] %</font></td><td style="border-color:#ddd;font-size:9pt;"><span title="More Details..." OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/ViewKpa.asp?KPA_ID=6388&amp;SheetId=1515&amp;userid=11&amp;assgrpid=4&#39;);" style="cursor:pointer;">Approval of invoices...</span></td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight [Actual Weight]" style="color:Teal;font-size:10pt;">100 [5] %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6388&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=7&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  [4]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_40_6388&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; [4]</span>&nbsp;</td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight [Actual Weight]" style="color:Teal;font-size:10pt;">100 [5] %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6388&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  [4]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6388&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Manager :  [4]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6388&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Agreed :  [5]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_40_6388&amp;pv=r&amp;sas8_1=4&amp;sas8_2=4&amp;sas8_5=5&amp;fas8=4,33&amp;p=4_1515_11_40_6388&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; [4,33]</span>&nbsp;</td><td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar2.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_40_6388&amp;pv=r&amp;sas8_1=4&amp;sas8_2=4&amp;sas8_5=5&amp;fas8=4,33&amp;p=4_1515_11_40_6388&amp;pv=r&amp;stas=4,17&amp;typ=bar&#39;);" style="border-color:#ddd;cursor:pointer;"><span title="Average score per KPA" style="font-weight:bold;"> [4,17]</span></td>
+          </tr><tr OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar.asp?sas7_6388=4&amp;sas8_6388=4,33&amp;stas_6388=4,17&amp;p=4_1515_11_40&amp;pv=r&amp;qas7=4&amp;qas8=4,33&amp;tas=4,17&#39;);" style="cursor:pointer;">
+            <td align="right" style="background-color:LightGrey;border-color:#ddd;">[Average Score]&nbsp;:&nbsp;</td><td style="background-color:LightGrey;border-color:#ddd;"> [4]</td><td style="background-color:LightGrey;border-color:#ddd;"> [4,33]</td><td style="background-color:LightGrey;border-color:#ddd;"><span style="font-weight:bold;"> [4,17]</span></td>
+          </tr><tr style="background-color:White;">
+            <td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/pie.asp?p=4_1515_11_8&amp;pv=r&amp;gwa8=0&amp;gwr8=0&amp;gwa24=0&amp;gwr24=0&amp;gwa38=0&amp;gwr38=0&amp;gwa40=0&amp;gwr40=0&amp;gwa44=0&amp;gwr44=0&amp;typ=pie&#39;);" rowspan="2" style="background-color:Transparent;border-color:#ddd;cursor:pointer;"><b>2.8. Finance Compliance KPA  for Exec, GM, SM and Man</b><br/><font color='Teal'>0 [0] %</font></td><td style="border-color:#ddd;font-size:9pt;"><span title="More Details..." OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/ViewKpa.asp?KPA_ID=6392&amp;SheetId=1515&amp;userid=11&amp;assgrpid=4&#39;);" style="cursor:pointer;">Financial Compliance ...</span></td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight [Actual Weight]" style="color:Teal;font-size:10pt;">100 [10] %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6392&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=7&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  [4]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_44_6392&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; [4]</span>&nbsp;</td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight [Actual Weight]" style="color:Teal;font-size:10pt;">100 [10] %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6392&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  [4]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6392&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Manager :  [4]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6392&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Agreed :  [4]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_44_6392&amp;pv=r&amp;sas8_1=4&amp;sas8_2=4&amp;sas8_5=4&amp;fas8=4&amp;p=4_1515_11_44_6392&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; [4]</span>&nbsp;</td><td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar2.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_44_6392&amp;pv=r&amp;sas8_1=4&amp;sas8_2=4&amp;sas8_5=4&amp;fas8=4&amp;p=4_1515_11_44_6392&amp;pv=r&amp;stas=4&amp;typ=bar&#39;);" style="border-color:#ddd;cursor:pointer;"><span title="Average score per KPA" style="font-weight:bold;"> [4]</span></td>
+          </tr><tr OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar.asp?sas7_6392=4&amp;sas8_6392=4&amp;stas_6392=4&amp;p=4_1515_11_44&amp;pv=r&amp;qas7=4&amp;qas8=4&amp;tas=4&#39;);" style="cursor:pointer;">
+            <td align="right" style="background-color:LightGrey;border-color:#ddd;">[Average Score]&nbsp;:&nbsp;</td><td style="background-color:LightGrey;border-color:#ddd;"> [4]</td><td style="background-color:LightGrey;border-color:#ddd;"> [4]</td><td style="background-color:LightGrey;border-color:#ddd;"><span style="font-weight:bold;"> [4]</span></td>
+          </tr><tr style="font-weight:bold;cursor:pointer;">
+
+
+          <ion-content>
+  <div class="cell">
+    <div class="bar_chart">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+    <div>
+      <span>Self</span>
+    <span>Manager</span>
+    <span>Peers</span>
+    <span>Direct Report</span>
+    </div>
+    
+  
+  </div>
+
+ <!--  <ion-grid>
+   <ion-row>
+     <ion-col size="4">
+      <app-simple-fields></app-simple-fields>
+     </ion-col>
+     <ion-col size="4">
+      <app-simple-fields></app-simple-fields>
+     </ion-col>
+     <ion-col size="4">
+      <app-simple-fields></app-simple-fields>
+     </ion-col>
+    
+   </ion-row>
+ </ion-grid> -->
+<ion-card>
+  <ion-grid>
+  
+ 
+    <ion-row>
+     
+      <ion-col>
+
+        <TABLE>
+          <TBODY>
+          <TR bgColor="#f9f9f9">
+          <TH><ion-list-header>
+            <ion-text>Rating</ion-text>
+          </ion-list-header></TH>
+          <TH> <ion-list-header>
+            <ion-text>Descriptor</ion-text>
+          </ion-list-header></TH>
+          <TH><ion-list-header><ion-text>Definition of Descriptor</ion-text></ion-list-header></TH></TR>
+          <TR>
+          <TD><ion-text>5</ion-text></TD>
+          <TD><ion-text>Exceptional Skills (Skills far exceeds standard expected at this level)</ion-text></TD>
+          <TD><ion-text></ion-text>
+          <LI>Planned objectives were achieved well above established standards against all Skills criteria and indicators, and maintained this in all areas of responsibility throughout the year.</LI>
+          <LI>Accomplishments were made in unexpected areas and introduced innovations that significantly improved ICASA’s effectiveness</LI>
+          <LI>Skills far exceeds all expectations consistently.</LI></TD></TR>
+          <TR>
+          <TD><ion-text></ion-text>4</TD>
+          <TD><ion-text></ion-text>Above expectation Skills (Skills significantly higher than standard expected for the job)</TD>
+          <TD><ion-text></ion-text>
+          <LI>Consistently exceeds standards in most areas of responsibility
+          <LI>Skills meets and exceeds most expectations.</LI></TD></TR>
+          <TR>
+          <TD><ion-text></ion-text>3</TD>
+          <TD><ion-text></ion-text>Effective Skills (Value adding Skills)</TD>
+          <TD><ion-text></ion-text>
+          <LI>Skills fully meets expectations in all areas of the job.
+          <LI>Skills fully meets standard expected in all areas of the job</LI></TD></TR>
+          <TR>
+          <TD><ion-text></ion-text>2</TD>
+          <TD><ion-text></ion-text>Skills does not meet some expectations / standards (Not all planned KPA’s were met)</TD>
+          <TD><ion-text></ion-text>
+          <LI>Not all planned objective were accomplished within the established standards.
+          <LI>Skills is below standard required for the job in key areas.
+          <LI>Need improvement.</LI></TD></TR>
+          <TR>
+          <TD><ion-text></ion-text>1</TD>
+          <TD><ion-text></ion-text>Poor Skills (There is a need for immediate PIP)</TD>
+          <TD><ion-text></ion-text>
+          <LI>Does not meet the expectations in all areas.
+          <LI>Skills does not meet standard expected for the job.
+          <LI>Needs immediate Skills Improvement Plan.</LI></TD></TR></TBODY></TABLE>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+
+
+ 
+
+</ion-card>
+<ion-card>
+  <ion-grid>
+    <ion-row>
+      <ion-col>
+        <table id="RadGrid1_ctl00_ctl06_tbReports" rules="all" cellPadding="2" style="width:100%;">
+          <tr class="rgHeader" style="border-color:#ddd;">
+            <td style="width:10%;font-weight:bold;"><ion-list-header color="secondary">Section</ion-list-header></td><td xstyle="font-weight:bold;"><ion-list-header color="secondary">Output</ion-list-header></td><td style="width:12%;white-space:nowrap;font-weight:bold;"><ion-list-header color="secondary">2018-09-30 </ion-list-header></td><td style="width:12%;white-space:nowrap;font-weight:bold;"> <ion-list-header color="secondary">2019-03-31</ion-list-header> </td><td style="width:10%;font-weight:bold;"> <ion-list-header color="secondary">Year End</ion-list-header></td>
+          </tr><tr style="background-color:White;">
+            <td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/pie.asp?p=4_1515_11_8&amp;pv=r&amp;gwa8=0&amp;gwr8=0&amp;typ=pie&#39;);" rowspan="3" style="background-color:Transparent;border-color:#ddd;cursor:pointer;"><b>SOOG - Compulsory SOOG for all</b><br/><font color='Teal'>0 [0] %</font></td><td style="border-color:#ddd;font-size:9pt;"><span title="More Details..." OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/ViewKpa.asp?KPA_ID=1&amp;SheetId=1515&amp;userid=11&amp;assgrpid=4&#39;);" style="cursor:pointer;">Living the ICASA values...</span></td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight [Actual Weight]">
+            <div class="bar_charts">
+              <div style="width: 25%;"></div>
+              <div style="width: 75%;"></div>
+              <div style="width: 55%;"></div>
+            </div>
+            </span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=7&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  [4]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_8_1&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; [4]</span>&nbsp;</td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight [Actual Weight]" style="color:Teal;font-size:10pt;">
+              <div class="bar_charts">
+                <div style="width: 75%;"></div>
+                <div style="width: 45%;"></div>
+                <div style="width: 85%;"></div>
+                <div style="width: 65%;"></div>
+              </div>
+              <!-- 25 [5] % --></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: red;"><li>Self : 5</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: orange;"><li>Manager : 5</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: green;"><li>Peers : 5 </li></span>
+              <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: purple;"><li>Direct Report : 3</li></span>
+              <!-- <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_8_1&amp;pv=r&amp;sas8_1=5&amp;sas8_2=5&amp;sas8_5=5&amp;fas8=5&amp;p=4_1515_11_8_1&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; [5]</span>&nbsp; --></td><td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar2.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_8_1&amp;pv=r&amp;sas8_1=5&amp;sas8_2=5&amp;sas8_5=5&amp;fas8=5&amp;p=4_1515_11_8_1&amp;pv=r&amp;stas=4,5&amp;typ=bar&#39;);" style="border-color:#ddd;cursor:pointer;"><span title="Average score per KPA" style="font-weight:bold;">4.5 </span></td>
+          </tr><tr style="background-color:Transparent;">
+            <td style="border-color:#ddd;font-size:9pt;"><span title="More Details..." OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/ViewKpa.asp?KPA_ID=2&amp;SheetId=1515&amp;userid=11&amp;assgrpid=4&#39;);" style="cursor:pointer;">Leadership Effectiveness...</span></td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight [Actual Weight]" style="color:Teal;font-size:10pt;">
+              <div class="bar_charts">
+                <div style="width: 75%;"></div>
+                <div style="width: 45%;"></div>
+                <div style="width: 85%;"></div>
+                <div style="width: 65%;"></div>
+              </div>
+              <!-- 25 [5] % --></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: red;"><li>Self : 5</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: orange;"><li>Manager : 5</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: green;"><li>Peers : 5 </li></span>
+              <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: purple;"><li>Direct Report : 3</li></span></td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight [Actual Weight]" style="color:Teal;font-size:10pt;">
+                <div class="bar_charts">
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: red;"><li>Self : 5</li></span>
+                  <div style="width: 75%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: orange;"><li>Manager : 5</li></span>
+                  <div style="width: 45%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: green;"><li>Peers : 5 </li></span>
+                  <div style="width: 85%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: purple;"><li>Direct Report : 3</li></span>
+                  <div style="width: 65%;"></div>
+                </div>
+                <!-- 25 [5] % --></span>
+               </td><td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar2.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_8_2&amp;pv=r&amp;sas8_1=5&amp;sas8_2=5&amp;sas8_5=5&amp;fas8=5&amp;p=4_1515_11_8_2&amp;pv=r&amp;stas=4,5&amp;typ=bar&#39;);" style="border-color:#ddd;cursor:pointer;"><span title="Average score per KPA" style="font-weight:bold;"> [4,5]</span> <ion-button (click)="presentModal()" size="small" color="success">
+                <ion-icon name="bar-chart-outline"></ion-icon>
+                <ion-label>View Chart</ion-label>
+              </ion-button></td>
+          </tr><tr OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar.asp?sas7_1=4&amp;sas8_1=5&amp;stas_1=4,5&amp;sas7_2=4&amp;sas8_2=5&amp;stas_2=4,5&amp;p=4_1515_11_8&amp;pv=r&amp;qas7=4&amp;qas8=5&amp;tas=4,5&#39;);" style="cursor:pointer;">
+            <td align="right" style="background-color:LightGrey;border-color:#ddd;">[Average Score]&nbsp;:&nbsp;</td><td style="background-color:LightGrey;border-color:#ddd;"> [4]</td><td style="background-color:LightGrey;border-color:#ddd;"> [5]</td><td style="background-color:LightGrey;border-color:#ddd;"><span style="font-weight:bold;"> [4,5]</span></td>
+          </tr><tr style="background-color:White;">
+            <td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/pie.asp?p=4_1515_11_8&amp;pv=r&amp;gwa8=0&amp;gwr8=0&amp;gwa24=0&amp;gwr24=0&amp;typ=pie&#39;);" rowspan="5" style="background-color:White;border-color:#ddd;cursor:pointer;"><b>SOOG 3.4 - Access to ICASA services.</b><br/><font color='Teal'>0 [0] %</font></td><td style="border-color:#ddd;font-size:9pt;"><span title="More Details..." OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/ViewKpa.asp?KPA_ID=2701&amp;SheetId=1515&amp;userid=11&amp;assgrpid=4&#39;);" style="cursor:pointer;">IT Operations...</span></td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight [Actual Weight]" style="color:Teal;font-size:10pt;">18,18 [10] %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=2701&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=7&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  [4]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_24_2701&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; [4]</span>&nbsp;</td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight [Actual Weight]" style="color:Teal;font-size:10pt;">18,18 [10] %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=2701&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  [4]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=2701&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Manager :  [4]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=2701&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Agreed :  [4]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_24_2701&amp;pv=r&amp;sas8_1=4&amp;sas8_2=4&amp;sas8_5=4&amp;fas8=4&amp;p=4_1515_11_24_2701&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; [4]</span>&nbsp;</td><td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar2.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_24_2701&amp;pv=r&amp;sas8_1=4&amp;sas8_2=4&amp;sas8_5=4&amp;fas8=4&amp;p=4_1515_11_24_2701&amp;pv=r&amp;stas=4&amp;typ=bar&#39;);" style="border-color:#ddd;cursor:pointer;"><span title="Average score per KPA" style="font-weight:bold;"> [4]</span></td>
+          </tr><tr style="background-color:Transparent;">
+            <td style="border-color:#ddd;font-size:9pt;"><span title="More Details..." OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/ViewKpa.asp?KPA_ID=2703&amp;SheetId=1515&amp;userid=11&amp;assgrpid=4&#39;);" style="cursor:pointer;">IT Security and Governance...</span></td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight [Actual Weight]" style="color:Teal;font-size:10pt;">18,18 [10] %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=2703&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=7&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  [3]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=3&amp;fas7=3&amp;p=4_1515_11_24_2703&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; [3]</span>&nbsp;</td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight [Actual Weight]" style="color:Teal;font-size:10pt;">18,18 [10] %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=2703&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  [5]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=2703&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Manager :  [5]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=2703&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Agreed :  [5]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=3&amp;fas7=3&amp;p=4_1515_11_24_2703&amp;pv=r&amp;sas8_1=5&amp;sas8_2=5&amp;sas8_5=5&amp;fas8=5&amp;p=4_1515_11_24_2703&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; [5]</span>&nbsp;</td><td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar2.asp?sas7_1=3&amp;fas7=3&amp;p=4_1515_11_24_2703&amp;pv=r&amp;sas8_1=5&amp;sas8_2=5&amp;sas8_5=5&amp;fas8=5&amp;p=4_1515_11_24_2703&amp;pv=r&amp;stas=4&amp;typ=bar&#39;);" style="border-color:#ddd;cursor:pointer;"><span title="Average score per KPA" style="font-weight:bold;"> [4]</span></td>
+          </tr><tr style="background-color:White;">
+            <td style="border-color:#ddd;font-size:9pt;"><span title="More Details..." OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/ViewKpa.asp?KPA_ID=2706&amp;SheetId=1515&amp;userid=11&amp;assgrpid=4&#39;);" style="cursor:pointer;">IT Management Information Systems...</span></td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight [Actual Weight]" style="color:Teal;font-size:10pt;">27,27 [15] %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=2706&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=7&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  [3]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=3&amp;fas7=3&amp;p=4_1515_11_24_2706&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; [3]</span>&nbsp;</td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight [Actual Weight]" style="color:Teal;font-size:10pt;">27,27 [15] %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=2706&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  [5]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=2706&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Manager :  [5]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=2706&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Agreed :  [5]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=3&amp;fas7=3&amp;p=4_1515_11_24_2706&amp;pv=r&amp;sas8_1=5&amp;sas8_2=5&amp;sas8_5=5&amp;fas8=5&amp;p=4_1515_11_24_2706&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; [5]</span>&nbsp;</td><td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar2.asp?sas7_1=3&amp;fas7=3&amp;p=4_1515_11_24_2706&amp;pv=r&amp;sas8_1=5&amp;sas8_2=5&amp;sas8_5=5&amp;fas8=5&amp;p=4_1515_11_24_2706&amp;pv=r&amp;stas=4&amp;typ=bar&#39;);" style="border-color:#ddd;cursor:pointer;"><span title="Average score per KPA" style="font-weight:bold;"> [4]</span></td>
+          </tr><tr style="background-color:Transparent;">
+            <td style="border-color:#ddd;font-size:9pt;"><span title="More Details..." OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/ViewKpa.asp?KPA_ID=5887&amp;SheetId=1515&amp;userid=11&amp;assgrpid=4&#39;);" style="cursor:pointer;">Delivery against Corporate Services Division APP...</span></td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight [Actual Weight]" style="color:Teal;font-size:10pt;">36,36 [20] %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=5887&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=7&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  [3]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=3&amp;fas7=3&amp;p=4_1515_11_24_5887&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; [3]</span>&nbsp;</td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight [Actual Weight]" style="color:Teal;font-size:10pt;">36,36 [20] %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=5887&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  [5]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=5887&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Manager :  [5]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=5887&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Agreed :  [5]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=3&amp;fas7=3&amp;p=4_1515_11_24_5887&amp;pv=r&amp;sas8_1=5&amp;sas8_2=5&amp;sas8_5=5&amp;fas8=5&amp;p=4_1515_11_24_5887&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; [5]</span>&nbsp;</td><td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar2.asp?sas7_1=3&amp;fas7=3&amp;p=4_1515_11_24_5887&amp;pv=r&amp;sas8_1=5&amp;sas8_2=5&amp;sas8_5=5&amp;fas8=5&amp;p=4_1515_11_24_5887&amp;pv=r&amp;stas=4&amp;typ=bar&#39;);" style="border-color:#ddd;cursor:pointer;"><span title="Average score per KPA" style="font-weight:bold;"> [4]</span></td>
+          </tr><tr OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar.asp?sas7_2701=4&amp;sas8_2701=4&amp;stas_2701=4&amp;sas7_2703=3&amp;sas8_2703=5&amp;stas_2703=4&amp;sas7_2706=3&amp;sas8_2706=5&amp;stas_2706=4&amp;sas7_5887=3&amp;sas8_5887=5&amp;stas_5887=4&amp;p=4_1515_11_24&amp;pv=r&amp;qas7=3,25&amp;qas8=4,75&amp;tas=4,00&#39;);" style="cursor:pointer;">
+            <td align="right" style="background-color:LightGrey;border-color:#ddd;">[Average Score]&nbsp;:&nbsp;</td><td style="background-color:LightGrey;border-color:#ddd;"> [3,25]</td><td style="background-color:LightGrey;border-color:#ddd;"> [4,75]</td><td style="background-color:LightGrey;border-color:#ddd;"><span style="font-weight:bold;"> [4,00]</span>  </td>
+          </tr><tr style="background-color:White;">
+            <td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/pie.asp?p=4_1515_11_8&amp;pv=r&amp;gwa8=0&amp;gwr8=0&amp;gwa24=0&amp;gwr24=0&amp;gwa38=0&amp;gwr38=0&amp;typ=pie&#39;);" rowspan="2" style="background-color:Transparent;border-color:#ddd;cursor:pointer;"><b>2.2. Risk KPA for D1 and above</b><br/><font color='Teal'>0 [0] %</font></td><td style="border-color:#ddd;font-size:9pt;"><span title="More Details..." OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/ViewKpa.asp?KPA_ID=6386&amp;SheetId=1515&amp;userid=11&amp;assgrpid=4&#39;);" style="cursor:pointer;">% of identified risks with mitigations/controls within timeframe as specified in the Risk Register....</span></td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight [Actual Weight]" style="color:Teal;font-size:10pt;">100 [5] %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6386&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=7&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  [4]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_38_6386&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; [4]</span>&nbsp;</td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight [Actual Weight]" style="color:Teal;font-size:10pt;">100 [5] %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6386&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  [5]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6386&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Manager :  [5]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6386&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Agreed :  [5]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_38_6386&amp;pv=r&amp;sas8_1=5&amp;sas8_2=5&amp;sas8_5=5&amp;fas8=5&amp;p=4_1515_11_38_6386&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; [5]</span>&nbsp;</td><td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar2.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_38_6386&amp;pv=r&amp;sas8_1=5&amp;sas8_2=5&amp;sas8_5=5&amp;fas8=5&amp;p=4_1515_11_38_6386&amp;pv=r&amp;stas=4,5&amp;typ=bar&#39;);" style="border-color:#ddd;cursor:pointer;"><span title="Average score per KPA" style="font-weight:bold;"> [4,5]</span></td>
+          </tr><tr OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar.asp?sas7_6386=4&amp;sas8_6386=5&amp;stas_6386=4,5&amp;p=4_1515_11_38&amp;pv=r&amp;qas7=4&amp;qas8=5&amp;tas=4,5&#39;);" style="cursor:pointer;">
+            <td align="right" style="background-color:LightGrey;border-color:#ddd;">[Average Score]&nbsp;:&nbsp;</td><td style="background-color:LightGrey;border-color:#ddd;"> [4]</td><td style="background-color:LightGrey;border-color:#ddd;"> [5]</td><td style="background-color:LightGrey;border-color:#ddd;"><span style="font-weight:bold;"> [4,5]</span></td>
+          </tr><tr style="background-color:Transparent;">
+            <td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/pie.asp?p=4_1515_11_8&amp;pv=r&amp;gwa8=0&amp;gwr8=0&amp;gwa24=0&amp;gwr24=0&amp;gwa38=0&amp;gwr38=0&amp;gwa40=0&amp;gwr40=0&amp;typ=pie&#39;);" rowspan="2" style="background-color:White;border-color:#ddd;cursor:pointer;"><b>2.4. Finance KPA for all non-financial Man, SM and EXEC</b><br/><font color='Teal'>0 [0] %</font></td><td style="border-color:#ddd;font-size:9pt;"><span title="More Details..." OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/ViewKpa.asp?KPA_ID=6388&amp;SheetId=1515&amp;userid=11&amp;assgrpid=4&#39;);" style="cursor:pointer;">Approval of invoices...</span></td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight [Actual Weight]" style="color:Teal;font-size:10pt;">100 [5] %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6388&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=7&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  [4]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_40_6388&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; [4]</span>&nbsp;</td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight [Actual Weight]" style="color:Teal;font-size:10pt;">100 [5] %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6388&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  [4]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6388&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Manager :  [4]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6388&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Agreed :  [5]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_40_6388&amp;pv=r&amp;sas8_1=4&amp;sas8_2=4&amp;sas8_5=5&amp;fas8=4,33&amp;p=4_1515_11_40_6388&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; [4,33]</span>&nbsp;</td><td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar2.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_40_6388&amp;pv=r&amp;sas8_1=4&amp;sas8_2=4&amp;sas8_5=5&amp;fas8=4,33&amp;p=4_1515_11_40_6388&amp;pv=r&amp;stas=4,17&amp;typ=bar&#39;);" style="border-color:#ddd;cursor:pointer;"><span title="Average score per KPA" style="font-weight:bold;"> [4,17]</span></td>
+          </tr><tr OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar.asp?sas7_6388=4&amp;sas8_6388=4,33&amp;stas_6388=4,17&amp;p=4_1515_11_40&amp;pv=r&amp;qas7=4&amp;qas8=4,33&amp;tas=4,17&#39;);" style="cursor:pointer;">
+            <td align="right" style="background-color:LightGrey;border-color:#ddd;">[Average Score]&nbsp;:&nbsp;</td><td style="background-color:LightGrey;border-color:#ddd;"> [4]</td><td style="background-color:LightGrey;border-color:#ddd;"> [4,33]</td><td style="background-color:LightGrey;border-color:#ddd;"><span style="font-weight:bold;"> [4,17]</span></td>
+          </tr><tr style="background-color:White;">
+            <td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/pie.asp?p=4_1515_11_8&amp;pv=r&amp;gwa8=0&amp;gwr8=0&amp;gwa24=0&amp;gwr24=0&amp;gwa38=0&amp;gwr38=0&amp;gwa40=0&amp;gwr40=0&amp;gwa44=0&amp;gwr44=0&amp;typ=pie&#39;);" rowspan="2" style="background-color:Transparent;border-color:#ddd;cursor:pointer;"><b>2.8. Finance Compliance KPA  for Exec, GM, SM and Man</b><br/><font color='Teal'>0 [0] %</font></td><td style="border-color:#ddd;font-size:9pt;"><span title="More Details..." OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/ViewKpa.asp?KPA_ID=6392&amp;SheetId=1515&amp;userid=11&amp;assgrpid=4&#39;);" style="cursor:pointer;">Financial Compliance ...</span></td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight [Actual Weight]" style="color:Teal;font-size:10pt;">100 [10] %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6392&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=7&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  [4]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_44_6392&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; [4]</span>&nbsp;</td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight [Actual Weight]" style="color:Teal;font-size:10pt;">100 [10] %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6392&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  [4]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6392&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Manager :  [4]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6392&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Agreed :  [4]</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_44_6392&amp;pv=r&amp;sas8_1=4&amp;sas8_2=4&amp;sas8_5=4&amp;fas8=4&amp;p=4_1515_11_44_6392&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; [4]</span>&nbsp;</td><td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar2.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_44_6392&amp;pv=r&amp;sas8_1=4&amp;sas8_2=4&amp;sas8_5=4&amp;fas8=4&amp;p=4_1515_11_44_6392&amp;pv=r&amp;stas=4&amp;typ=bar&#39;);" style="border-color:#ddd;cursor:pointer;"><span title="Average score per KPA" style="font-weight:bold;"> [4]</span></td>
+          </tr><tr OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar.asp?sas7_6392=4&amp;sas8_6392=4&amp;stas_6392=4&amp;p=4_1515_11_44&amp;pv=r&amp;qas7=4&amp;qas8=4&amp;tas=4&#39;);" style="cursor:pointer;">
+            <td align="right" style="background-color:LightGrey;border-color:#ddd;">[Average Score]&nbsp;:&nbsp;</td><td style="background-color:LightGrey;border-color:#ddd;"> [4]</td><td style="background-color:LightGrey;border-color:#ddd;"> [4]</td><td style="background-color:LightGrey;border-color:#ddd;"><span style="font-weight:bold;"> [4]</span></td>
+          </tr><tr style="font-weight:bold;cursor:pointer;">
+            <td class="rgFooter">Overall Totals</td><td class="rgFooter" align="right" style="white-space:nowrap;"><span onclick="ShowUploader(&#39;http://localhostlocalhost:80/segogi//doperformance/Upload/AddFile.asp?LinkID=1514&amp;reviewperiod=0&amp;userid=11&amp;sheetid=1515&amp;assgrpid=4&amp;typelink=0&#39;);" style="color:Blue;cursor:pointer;">View Evidence</span><b>&nbsp;&nbsp;|&nbsp;&nbsp;</b><b>Weighted Score&nbsp;[Average Score]&nbsp;:&nbsp;</b><span></span></td><td class="rgFooter"><span title="Average Score"> [3,85]</span></td><td class="rgFooter"><span title="Average Score"> [4,62]</span></td><td title="Year to date" class="rgFooter"><span style="font-weight:bold;">&nbsp;[4,23]</span></td>
+          </tr>
+        </table>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-card>
+       
+      
+</ion-content>
+
+
+
+
+
+
+<!-- <app-nav-bar title="{{ title }}"></app-nav-bar>
+
+<ion-content>
+ <ion-grid class="ion-no-padding">
+  <ion-row>
+    <ion-col size="4">
+     <ion-segment (ionChange)="segmentChanged($event)">
+       <ion-segment-button value="self">
+         <ion-label>Subordinate</ion-label>
+         <ion-checkbox slot="start"></ion-checkbox>
+       </ion-segment-button>
+       <ion-segment-button value="manager">
+         <ion-label>Managers</ion-label>
+         <ion-checkbox slot="start"></ion-checkbox>
+       </ion-segment-button>
+       <ion-segment-button value="peers">
+        <ion-label>Peers</ion-label>
+        <ion-checkbox slot="start"></ion-checkbox>
+      </ion-segment-button>
+     </ion-segment>
+    </ion-col>
+    <ion-col size="8">
+      <p style="text-align: right; padding-right: 15px;"><ion-icon name="time"></ion-icon>18 Wednesday, 2021</p>
+    </ion-col>
+  </ion-row>
+   <ion-row >
+    
+    <ion-col size="4">
+    
+        <ion-card>
+          
+          <ion-list>
+            <ion-list-header color="dark">
+              Select the Peer to rate your assessment.
+            </ion-list-header>
+            <ion-toolbar>
+              <ion-searchbar class="ion-no-border"></ion-searchbar>
+              <ion-buttons slot="end">
+                <ion-button color="primary">
+                  <ion-icon name="add"></ion-icon>
+                </ion-button>
+              </ion-buttons>
+            </ion-toolbar>
+            <ion-item>
+              <ion-avatar slot="start">
+                <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+              </ion-avatar>
+              <ion-label>
+                <h2>Gabriel Mathambo</h2>
+               
+                
+              </ion-label>
+              <ion-checkbox slot="start"></ion-checkbox>
+            </ion-item>
+    
+            <ion-item>
+              <ion-avatar slot="start">
+                <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+              </ion-avatar>
+              <ion-label>
+                <h2>Hanna Mercy</h2>
+                
+               
+              </ion-label>
+              <ion-checkbox slot="start"></ion-checkbox>
+            </ion-item>
+    
+            <ion-item>
+              <ion-avatar slot="start">
+                <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+              </ion-avatar>
+              <ion-label>
+                <h2>Reymond Maswiri</h2>
+              </ion-label>
+              <ion-checkbox slot="start"></ion-checkbox>
+            </ion-item>
+    
+            <ion-item>
+              <ion-avatar slot="start">
+                <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+              </ion-avatar>
+              <ion-label>
+                <h2>Luke The peers</h2>
+              </ion-label>
+              <ion-checkbox slot="start"></ion-checkbox>
+            </ion-item>
+            <ion-item>
+              <ion-avatar slot="start">
+                <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+              </ion-avatar>
+              <ion-label>
+                <h2>John Tharaga</h2>
+               
+                
+              </ion-label>
+              <ion-checkbox slot="start"></ion-checkbox>
+            </ion-item>
+    
+            <ion-item>
+              <ion-avatar slot="start">
+                <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+              </ion-avatar>
+              <ion-label>
+                <h2>Tlotlo Dikutle</h2>
+                
+               
+              </ion-label>
+              <ion-checkbox slot="start"></ion-checkbox>
+            </ion-item>
+    
+            <ion-item>
+              <ion-avatar slot="start">
+                <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+              </ion-avatar>
+              <ion-label>
+                <h2>Terence Maziboko</h2>
+                
+              
+              </ion-label>
+              <ion-checkbox slot="start"></ion-checkbox>
+            </ion-item>
+    
+            <ion-item>
+              <ion-avatar slot="start">
+                <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+              </ion-avatar>
+              <ion-label>
+                <h2>Khuthy Muenda</h2>
+               
+                
+              </ion-label>
+              <ion-checkbox slot="start"></ion-checkbox>
+            </ion-item>
+            <ion-item>
+              <ion-avatar slot="start">
+                <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+              </ion-avatar>
+              <ion-label>
+                <h2>Fifie Dikulte</h2>
+               
+                
+              </ion-label>
+              <ion-checkbox slot="start"></ion-checkbox>
+            </ion-item>
+    
+            <ion-item>
+              <ion-avatar slot="start">
+                <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+              </ion-avatar>
+              <ion-label>
+                <h2>Nkululeko Gumade</h2>
+                
+               
+              </ion-label>
+              <ion-checkbox slot="start"></ion-checkbox>
+            </ion-item>
+    
+            <ion-item>
+              <ion-avatar slot="start">
+                <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+              </ion-avatar>
+              <ion-label>
+                <h2>Malume Koolkat</h2>
+                
+              </ion-label>
+              <ion-checkbox slot="start"></ion-checkbox>
+            </ion-item>
+    
+            <ion-item>
+              <ion-avatar slot="start">
+                <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+              </ion-avatar>
+              <ion-label>
+                <h2>Luke Genesis</h2>
+               
+                
+              </ion-label>
+              <ion-checkbox slot="start"></ion-checkbox>
+            </ion-item>
+          </ion-list>
+        </ion-card>
+    </ion-col>
+    <ion-col size="4">
+      <ion-card>
+        <ion-list>
+          <ion-list-header color="warning">
+            Suggested peers to rate
+          </ion-list-header>
+          <ion-toolbar>
+            <ion-buttons slot="end">
+              <ion-button color="danger">
+                <ion-icon name="remove"></ion-icon>
+              </ion-button>
+            </ion-buttons>
+            <ion-searchbar class="ion-no-border"></ion-searchbar>
+            <ion-buttons slot="end">
+              <ion-button color="success">
+                <ion-icon name="add"></ion-icon>
+              </ion-button>
+            </ion-buttons>
+          </ion-toolbar>
+          <ion-item>
+            <ion-avatar slot="start">
+              <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+            </ion-avatar>
+            <ion-label>
+              <h2>Paul Masimone</h2>
+             
+              
+            </ion-label>
+            <ion-checkbox slot="start"></ion-checkbox>
+          </ion-item>
+          <ion-item>
+            <ion-avatar slot="start">
+              <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+            </ion-avatar>
+            <ion-label>
+              <h2>Peter Sibarame</h2>
+             
+              
+            </ion-label>
+            <ion-checkbox slot="start"></ion-checkbox>
+          </ion-item>
+  
+          <ion-item>
+            <ion-avatar slot="start">
+              <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+            </ion-avatar>
+            <ion-label>
+              <h2>Mutau Kgothatzo</h2>
+              
+             
+            </ion-label>
+            <ion-checkbox slot="start"></ion-checkbox>
+          </ion-item>
+  
+          <ion-item>
+            <ion-avatar slot="start">
+              <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+            </ion-avatar>
+            <ion-label>
+              <h2>Masiane Sindi</h2>
+              
+              
+            </ion-label>
+            <ion-checkbox slot="start"></ion-checkbox>
+          </ion-item>
+  
+          <ion-item>
+            <ion-avatar slot="start">
+              <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+            </ion-avatar>
+            <ion-label>
+              <h2>Makopane Sipho</h2>
+             
+            
+            </ion-label>
+            <ion-checkbox slot="start"></ion-checkbox>
+          </ion-item>
+          <ion-item>
+            <ion-avatar slot="start">
+              <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+            </ion-avatar>
+            <ion-label>
+              <h2>Makopane Sipho</h2>
+             
+            
+            </ion-label>
+            <ion-checkbox slot="start"></ion-checkbox>
+          </ion-item>
+          <ion-item>
+            <ion-avatar slot="start">
+              <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+            </ion-avatar>
+            <ion-label>
+              <h2>Makopane Sipho</h2>
+             
+            
+            </ion-label>
+            <ion-checkbox slot="start"></ion-checkbox>
+          </ion-item>
+          <ion-item>
+            <ion-avatar slot="start">
+              <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+            </ion-avatar>
+            <ion-label>
+              <h2>Makopane Sipho</h2>
+             
+            
+            </ion-label>
+            <ion-checkbox slot="start"></ion-checkbox>
+          </ion-item>
+          <ion-item>
+            <ion-avatar slot="start">
+              <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+            </ion-avatar>
+            <ion-label>
+              <h2>Makopane Sipho</h2>
+             
+            
+            </ion-label>
+            <ion-checkbox slot="start"></ion-checkbox>
+          </ion-item>
+          </ion-list>
+          </ion-card>
+    </ion-col>
+    <ion-col size="4">
+      <ion-card>
+        <ion-list>
+          <ion-list-header color="success">
+            Approved peers
+            <ion-button (click)="presentModal()" color="light">Invite</ion-button>
+          </ion-list-header>
+          
+         <ion-toolbar>
+           <ion-buttons slot="start">
+           
+               <ion-button color="warning">
+                remove
+               </ion-button>
+               
+           </ion-buttons>
+           <ion-buttons slot="end">
+           
+            <ion-button color="success" (click)="presentLoadingWithOptions()">
+              Invite all
+            </ion-button>
+        
+        </ion-buttons>
+         </ion-toolbar>
+          <ion-item>
+            <ion-avatar slot="start">
+              <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+            </ion-avatar>
+            <ion-label>
+              <h2>Kim Siboro</h2>
+             
+              
+            </ion-label>
+            <ion-checkbox slot="start"></ion-checkbox>
+          </ion-item>
+          <ion-item>
+            <ion-avatar slot="start">
+              <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+            </ion-avatar>
+            <ion-label>
+              <h2>Chief Chiboro</h2>
+             
+              
+            </ion-label>
+            <ion-checkbox slot="start"></ion-checkbox>
+          </ion-item>
+  
+          <ion-item>
+            <ion-avatar slot="start">
+              <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+            </ion-avatar>
+            <ion-label>
+              <h2>Mokopane pastor</h2>
+              
+             
+            </ion-label>
+            <ion-checkbox slot="start"></ion-checkbox>
+          </ion-item>
+  
+          <ion-item>
+            <ion-avatar slot="start">
+              <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+            </ion-avatar>
+            <ion-label>
+              <h2>Rulhani Rudzani</h2>
+              
+              
+            </ion-label>
+            <ion-checkbox slot="start"></ion-checkbox>
+          </ion-item>
+  
+          <ion-item>
+             <ion-avatar slot="start">
+              <img src="https://th.bing.com/th/id/R.a70374597528f06881a89d5420e0e6a2?rik=rZvE6qHIAp4T5g&riu=http%3a%2f%2fmadefor#ddd.com%2fwp-content%2fuploads%2f2019%2f01%2fFormal-Dress-Ideas-For-#ddd-Men-18.jpg&ehk=7efmTabk%2bbGFQ3Lj2HLWvuTcNTrhlxClUxqJ35QhYTM%3d&risl=&pid=ImgRaw&r=0">
+            </ion-avatar> 
+            <ion-label>
+              <h2>Ramatsea Rudzani</h2>
+             
+           
+            </ion-label>
+            <ion-checkbox slot="start"></ion-checkbox>
+          </ion-item>
+          </ion-list>
+          </ion-card>
+      
+    </ion-col>
+   </ion-row>
+ </ion-grid>
+</ion-content>
+-->
+
+
+
+<ion-content>
+ <ion-grid class="ion-no-padding">
+  <ion-row>
+    <ion-col size="4">
+     <ion-segment (ionChange)="segmentChanged($event)">
+      <ion-segment-button value="self">
+        <ion-label>Self</ion-label>
+       
+      </ion-segment-button>
+       <ion-segment-button value="surbordinate">
+         <ion-label>Self</ion-label>
+      
+       </ion-segment-button>
+       <ion-segment-button value="Self">
+         <ion-label>Self</ion-label>
+      
+       </ion-segment-button>
+       <ion-segment-button value="peers">
+        <ion-label>Peers</ion-label>
+     
+      </ion-segment-button>
+    </ion-segment>
+    </ion-col>
+
+  </ion-row>
+  <div >
+
+     <ion-row>
+      
+      <ion-col size="4">
+      
+          <ion-card>
+            
+            <ion-list>
+              <ion-list-header color="danger">
+                Select the Self to rate your assessment.
+              </ion-list-header>
+              <ion-toolbar>
+                <ion-searchbar class="ion-no-border"></ion-searchbar>
+                <ion-buttons slot="end">
+                  <ion-button size="small" color="secondary">
+                    <ion-icon name="add" size="large"></ion-icon>
+                  </ion-button>
+                </ion-buttons>
+              </ion-toolbar>
+              <ion-item>
+                <ion-label>
+                  <h2>Gabriel Mathambo</h2>
+                 
+                  
+                </ion-label>
+                <ion-checkbox slot="start"></ion-checkbox>
+              </ion-item>
+      
+              <ion-item>
+                <ion-label>
+                  <h2>Hanna Mercy</h2>
+                  
+                 
+                </ion-label>
+                <ion-checkbox slot="start"></ion-checkbox>
+              </ion-item>
+      
+              <ion-item>
+                <ion-label>
+                  <h2>Reymond Maswiri</h2>
+                </ion-label>
+                <ion-checkbox slot="start"></ion-checkbox>
+              </ion-item>
+      
+              <ion-item>
+                <ion-label>
+                  <h2>Luke The Self</h2>
+                </ion-label>
+                <ion-checkbox slot="start"></ion-checkbox>
+              </ion-item>
+              <ion-item>
+                <ion-label>
+                  <h2>John Tharaga</h2>
+                 
+                  
+                </ion-label>
+                <ion-checkbox slot="start"></ion-checkbox>
+              </ion-item>
+      
+              <ion-item>
+                <ion-label>
+                  <h2>Tlotlo Dikutle</h2>
+                  
+                 
+                </ion-label>
+                <ion-checkbox slot="start"></ion-checkbox>
+              </ion-item>
+      
+              <ion-item>
+                <ion-label>
+                  <h2>Terence Maziboko</h2>
+                  
+                
+                </ion-label>
+                <ion-checkbox slot="start"></ion-checkbox>
+              </ion-item>
+      
+              <ion-item>
+                <ion-label>
+                  <h2>Khuthy Muenda</h2>
+                 
+                  
+                </ion-label>
+                <ion-checkbox slot="start"></ion-checkbox>
+              </ion-item>
+              <ion-item>
+                <ion-label>
+                  <h2>Fifie Dikulte</h2>
+                 
+                  
+                </ion-label>
+                <ion-checkbox slot="start"></ion-checkbox>
+              </ion-item>
+      
+              <ion-item>
+                <ion-label>
+                  <h2>Nkululeko Gumade</h2>
+                  
+                 
+                </ion-label>
+                <ion-checkbox slot="start"></ion-checkbox>
+              </ion-item>
+      
+              <ion-item>
+                <ion-label>
+                  <h2>Malume Koolkat</h2>
+                  
+                </ion-label>
+                <ion-checkbox slot="start"></ion-checkbox>
+              </ion-item>
+      
+              <ion-item>
+                <ion-label>
+                  <h2>Luke Genesis</h2>
+                 
+                  
+                </ion-label>
+                <ion-checkbox slot="start"></ion-checkbox>
+              </ion-item>
+            </ion-list>
+          </ion-card>
+      </ion-col>
+      <ion-col size="4">
+        <ion-card>
+          <ion-list>
+            <ion-list-header color="warning">
+              Suggested Self to rate
+            </ion-list-header>
+            <ion-toolbar>
+              <ion-buttons slot="end">
+                <ion-button size="small" color="danger">
+                  <ion-icon name="remove" size="large"></ion-icon>
+                </ion-button>
+              </ion-buttons>
+              <ion-searchbar class="ion-no-border"></ion-searchbar>
+              <ion-buttons slot="end">
+                <ion-button size="small" color="secondary">
+                  <ion-icon name="add" size="large"></ion-icon>
+                </ion-button>
+              </ion-buttons>
+            </ion-toolbar>
+          
+            </ion-list>
+            </ion-card>
+      </ion-col>
+      <ion-col size="4">
+        <ion-card>
+          <ion-list>
+            <ion-list-header color="success">
+              Approved Self
+              
+            </ion-list-header>
+            
+           <ion-toolbar>
+             <ion-buttons slot="start">
+             
+                 <ion-button color="danger">
+                  remove
+                 </ion-button>
+                 
+             </ion-buttons>
+             <ion-buttons slot="end">
+             
+              <ion-button size="small" (click)="presentLoadingWithOptions()" color="secondary">
+                <ion-icon name="mail"></ion-icon> Invite
+              </ion-button>
+          
+          </ion-buttons>
+           </ion-toolbar>
+            <ion-item>
+              <ion-label>
+                <h2>Khorommbi Posi</h2>
+               
+                
+              </ion-label>
+              <ion-checkbox slot="start"></ion-checkbox>
+            </ion-item>
+     <!--   <ion-item>
+              <ion-label>
+                <h2>Chief Chiboro</h2>
+               
+                
+              </ion-label>
+              <ion-checkbox slot="start"></ion-checkbox>
+            </ion-item>
+    
+            <ion-item>
+              <ion-label>
+                <h2>Mokopane pastor</h2>
+                
+               
+              </ion-label>
+              <ion-checkbox slot="start"></ion-checkbox>
+            </ion-item>
+    
+            <ion-item>
+              <ion-label>
+                <h2>Rulhani Rudzani</h2>
+                
+                
+              </ion-label>
+              <ion-checkbox slot="start"></ion-checkbox>
+            </ion-item>
+    
+            <ion-item>
+   
+              <ion-label>
+                <h2>Ramatsea Rudzani</h2>
+               
+             
+              </ion-label>
+              <ion-checkbox slot="start"></ion-checkbox>
+            </ion-item> --> 
+            </ion-list>
+            </ion-card>
+        
+      </ion-col>
+     </ion-row>       
+  </div>
+ 
+ </ion-grid>
+</ion-content>
+
+
+
+
+
+
+
+
+
+
+  <!-- <ion-grid>
+  
+ 
+    <ion-row>
+     
+      <ion-col>
+  <h2>Explanation providing instructions, interpretation of scores, rating scale, comparisons to previous year’s data if available, scale and dimension description</h2>
+        <TABLE>
+          <TBODY>
+          <TR bgColor="#f9f9f9">
+          <TH><ion-list-header color="primary">
+            <ion-text>Rating</ion-text>
+          </ion-list-header></TH>
+          <TH> <ion-list-header color="primary">
+            <ion-text>Descriptor</ion-text>x
+          </ion-list-header></TH>
+          <TH><ion-list-header color="primary"><ion-text>Definition of Descriptor</ion-text></ion-list-header></TH></TR>
+          <TR>
+          <TD><ion-text>5</ion-text></TD>
+          <TD><ion-text>Exceptional Skills (Skills far exceeds standard expected at this level)</ion-text></TD>
+          <TD><ion-text></ion-text>
+          <LI>Planned objectives were achieved well above established standards against all Skills criteria and indicators, and maintained this in all areas of responsibility throughout the year.</LI>
+          <LI>Accomplishments were made in unexpected areas and introduced innovations that significantly improved ICASA’s effectiveness</LI>
+          <LI>Skills far exceeds all expectations consistently.</LI></TD></TR>
+          <TR>
+          <TD><ion-text></ion-text>4</TD>
+          <TD><ion-text></ion-text>Above expectation Skills (Skills significantly higher than standard expected for the job)</TD>
+          <TD><ion-text></ion-text>
+          <LI>Consistently exceeds standards in most areas of responsibility
+          <LI>Skills meets and exceeds most expectations.</LI></TD></TR>
+          <TR>
+          <TD><ion-text></ion-text>3</TD>
+          <TD><ion-text></ion-text>Effective Skills (Value adding Skills)</TD>
+          <TD><ion-text></ion-text>
+          <LI>Skills fully meets expectations in all areas of the job.
+          <LI>Skills fully meets standard expected in all areas of the job</LI></TD></TR>
+          <TR>
+          <TD><ion-text></ion-text>2</TD>
+          <TD><ion-text></ion-text>Skills does not meet some expectations / standards (Not all planned KPA’s were met)</TD>
+          <TD><ion-text></ion-text>
+          <LI>Not all planned objective were accomplished within the established standards.
+          <LI>Skills is below standard required for the job in key areas.
+          <LI>Need improvement.</LI></TD></TR>
+          <TR>
+          <TD><ion-text></ion-text>1</TD>
+          <TD><ion-text></ion-text>Poor Skills (There is a need for immediate PIP)</TD>
+          <TD><ion-text></ion-text>
+          <LI>Does not meet the expectations in all areas.
+          <LI>Skills does not meet standard expected for the job.
+          <LI>Needs immediate Skills Improvement Plan.</LI></TD></TR></TBODY></TABLE>
+      </ion-col>
+    </ion-row>
+  </ion-grid>  -->
+
+<!--    <ion-grid>
+     <ion-row *ngFor="let data of explans;let i=index;">
+       <ion-col>
+         <h1>{{i+1}}{{data.title}}</h1>
+         <p>{{data.descriptor}}</p>
+         <p>{{data.description}}</p>
+       </ion-col>
+     </ion-row>
+   </ion-grid> -->
+
+
+ <!--  <ion-grid>
+    <ion-row>
+      <ion-col size="12">
+   <ion-card>
+          <ion-card-content>
+            <p>bar chart</p>
+          </ion-card-content>
+        </ion-card> 
+      </ion-col>
+      <ion-col size="12">
+        <ion-card>
+          <ion-card-content>
+            <table class="table">
+              <thead>
+                <tr style="background-color: #ddd;">
+                  <th>Divisions</th>
+                  <th>Living ICASA Values</th>
+                  <th>Leardership Effectiveness</th>
+               
+                </tr>
+              </thead>
+              <tbody>
+                <tr *ngFor="let data of tableData;">
+                 
+                  <td>{{data.division}}</td>
+                  <td>
+                   {{data.living}}
+                  </td>
+                  <td>
+                    {{data.leardership}}
+                  </td>
+                </tr>
+                <tr style="background-color: purple; color: #fff;">
+                  <td (click)="presentModal()" style="text-align: right; font-weight: bold;">Divisional Overall Score:</td>
+                  <td>4.5</td>
+                  <td>3.5</td>
+                </tr>
+               
+              </tbody>
+            </table>
+          </ion-card-content>
+        
+        </ion-card>
+        
+      </ion-col>
+    </ion-row>
+  </ion-grid> -->
+    <!--<ion-grid>
+       <ion-row>
+         
+         <ion-col size="12">
+      
+        <ion-card>
+        <table rules="all" style="width:100%;">
+          <tr class="rgHeader" style="border-color:rgb(221, 221, 221); background-color: rgb(0, 219, 154); color: #fff">
+            <td style="color: #fff;"><h6 >Dimensions</h6></td><td style="color: #fff;"><h6 >Questions</h6></td><td style="color: #fff;"><h6 >Previous year Score </h6></td><td style="color: #fff;"> <h6 >Current year score</h6> </td><td style="color: #fff;"> <h6 >Divisional Score</h6></td>
+          </tr><tr style="background-color:White;">
+            <td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/pie.asp?p=4_1515_11_8&amp;pv=r&amp;gwa8=0&amp;gwr8=0&amp;typ=pie&#39;);" rowspan="3" style="background-color:Transparent;border-color:#ddd;cursor:pointer;"><b>SOOG - Compulsory SOOG for all</b><br/></td><td style="border-color:#ddd;font-size:9pt;"><span title="More Details" OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/ViewKpa.asp?KPA_ID=1&amp;SheetId=1515&amp;userid=11&amp;assgrpid=4&#39;);" style="cursor:pointer;">Living the ICASA values</span></td>
+            <td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar2.asp?sas7_1=3&amp;fas7=3&amp;p=4_1515_11_24_5887&amp;pv=r&amp;sas8_1=5&amp;sas8_2=5&amp;sas8_5=5&amp;fas8=5&amp;p=4_1515_11_24_5887&amp;pv=r&amp;stas=4&amp;typ=bar&#39;);" style="border-color:#ddd;cursor:pointer;">
+              <span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">Self Rating
+                <div class="bar_charts">
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: red;"><li>Self : 5</li></span>
+                  <div style="width: 75%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: orange;"><li>Self : 5</li></span>
+                  <div style="width: 45%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: green;"><li>Peers : 5 </li></span>
+                  <div style="width: 85%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: purple;"><li>Self : 3</li></span>
+                  <div style="width: 65%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: rgb(76, 134, 161);"><li>Overall : 4</li></span>
+                  <div style="width: 65%;"></div>
+                </div>
+                </span>  
+            </td>
+            <td valign="top" style="border-color:#ddd;white-space:nowrap;">
+                <span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">
+                  <div class="bar_charts">
+                    <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: red;"><li>Self : 5</li></span>
+                    <div style="width: 75%;"></div>
+                    <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: orange;"><li>Self : 5</li></span>
+                    <div style="width: 45%;"></div>
+                    <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: green;"><li>Peers : 5 </li></span>
+                    <div style="width: 85%;"></div>
+                    <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: purple;"><li>Self : 3</li></span>
+                    <div style="width: 65%;"></div>
+                    <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: rgb(76, 134, 161);"><li>Overall : 4</li></span>
+                    <div style="width: 65%;"></div>
+                  </div>
+                  </span>
+               <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_8_1&amp;pv=r&amp;sas8_1=5&amp;sas8_2=5&amp;sas8_5=5&amp;fas8=5&amp;p=4_1515_11_8_1&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; 5</span>&nbsp; </td>
+              <td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar2.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_8_1&amp;pv=r&amp;sas8_1=5&amp;sas8_2=5&amp;sas8_5=5&amp;fas8=5&amp;p=4_1515_11_8_1&amp;pv=r&amp;stas=4,5&amp;typ=bar&#39;);" style="border-color:#ddd;cursor:pointer;">
+                <span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">
+                  <div class="bar_charts">
+                    <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: red;"><li>Self : 5</li></span>
+                    <div style="width: 75%;"></div>
+                    <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: orange;"><li>Self : 5</li></span>
+                    <div style="width: 45%;"></div>
+                    <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: green;"><li>Peers : 5 </li></span>
+                    <div style="width: 85%;"></div>
+                    <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: purple;"><li>Self : 3</li></span>
+                    <div style="width: 65%;"></div>
+                    <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: rgb(76, 134, 161);"><li>Overall : 4</li></span>
+                    <div style="width: 65%;"></div>
+                  </div>
+                  </span>
+              </td>
+          </tr><tr style="background-color:Transparent;">
+            <td style="border-color:#ddd;font-size:9pt;"><span title="More Details" OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/ViewKpa.asp?KPA_ID=2&amp;SheetId=1515&amp;userid=11&amp;assgrpid=4&#39;);" style="cursor:pointer;">Leadership Effectiveness</span></td>
+            <td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">
+              <div class="bar_charts">
+                <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: red;"><li>Self : 5</li></span>
+                <div style="width: 75%;"></div>
+                <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: orange;"><li>Self : 5</li></span>
+                <div style="width: 45%;"></div>
+                <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: green;"><li>Peers : 5 </li></span>
+                <div style="width: 85%;"></div>
+                <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: purple;"><li>Self : 3</li></span>
+                <div style="width: 65%;"></div>
+                <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: rgb(76, 134, 161);"><li>Overall : 4</li></span>
+                <div style="width: 65%;"></div>
+              </div>
+              </span><span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">
+              <div class="bar_charts">
+                <div style="width: 75%;"></div>
+                <div style="width: 45%;"></div>
+                <div style="width: 85%;"></div>
+                <div style="width: 65%;"></div>
+              </div>
+               25 5 % </span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: red;"><li>Self : 5</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: orange;"><li>Self : 5</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: green;"><li>Peers : 5 </li></span>
+              <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: purple;"><li>Direct Report : 3</li></span></td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">
+                <div class="bar_charts">
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: red;"><li>Self : 5</li></span>
+                  <div style="width: 75%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: orange;"><li>Self : 5</li></span>
+                  <div style="width: 45%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: green;"><li>Peers : 5 </li></span>
+                  <div style="width: 85%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: purple;"><li>Self : 3</li></span>
+                  <div style="width: 65%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: rgb(76, 134, 161);"><li>Overall : 4</li></span>
+                  <div style="width: 65%;"></div>
+                </div>
+                </span>
+               </td><td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar2.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_8_2&amp;pv=r&amp;sas8_1=5&amp;sas8_2=5&amp;sas8_5=5&amp;fas8=5&amp;p=4_1515_11_8_2&amp;pv=r&amp;stas=4,5&amp;typ=bar&#39;);" style="border-color:#ddd;cursor:pointer;"><span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">
+                <div class="bar_charts">
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: red;"><li>Self : 5</li></span>
+                  <div style="width: 75%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: orange;"><li>Self : 5</li></span>
+                  <div style="width: 45%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: green;"><li>Peers : 5 </li></span>
+                  <div style="width: 85%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: purple;"><li>Self : 3</li></span>
+                  <div style="width: 65%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: rgb(76, 134, 161);"><li>Overall : 4</li></span>
+                  <div style="width: 65%;"></div>
+                </div>
+                </span></td>
+          </tr><tr   style="cursor:pointer;">
+            <td align="right" style="background-color:rgb(51, 133, 255);border-color:#ddd;"><ion-note style="color: #fff;" (click)="presentModal()"> 
+              <ion-icon slot="only-icon"></ion-icon> Dimensional Overall Score</ion-note>&nbsp;:&nbsp;</td><td style="background-color:rgb(51, 133, 255);border-color:#ddd;color: #fff"> 4</td><td style="background-color:rgb(51, 133, 255);border-color:#ddd;color: #fff"> 5</td><td style="background-color:rgb(51, 133, 255);border-color:#ddd;"><span style="font-weight:bold;color: #fff"> 4,5</span></td>
+          </tr><tr style="background-color:White;">
+            <td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/pie.asp?p=4_1515_11_8&amp;pv=r&amp;gwa8=0&amp;gwr8=0&amp;gwa24=0&amp;gwr24=0&amp;typ=pie&#39;);" rowspan="5" style="background-color:White;border-color:#ddd;cursor:pointer;"><b>SOOG 3.4 - Access to ICASA services.</b><br/></td><td style="border-color:#ddd;font-size:9pt;"><span title="More Details" OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/ViewKpa.asp?KPA_ID=2701&amp;SheetId=1515&amp;userid=11&amp;assgrpid=4&#39;);" style="cursor:pointer;">IT Operations</span></td><td  style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">
+              <div class="bar_charts">
+                <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: red;"><li>Self : 5</li></span>
+                <div style="width: 75%;"></div>
+                <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: orange;"><li>Self : 5</li></span>
+                <div style="width: 45%;"></div>
+                <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: green;"><li>Peers : 5 </li></span>
+                <div style="width: 85%;"></div>
+                <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: purple;"><li>Self : 3</li></span>
+                <div style="width: 65%;"></div>
+                <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: rgb(76, 134, 161);"><li>Overall : 4</li></span>
+                <div style="width: 65%;"></div>
+              </div>
+              </span></td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">
+                <div class="bar_charts">
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: red;"><li>Self : 5</li></span>
+                  <div style="width: 75%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: orange;"><li>Self : 5</li></span>
+                  <div style="width: 45%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: green;"><li>Peers : 5 </li></span>
+                  <div style="width: 85%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: purple;"><li>Self : 3</li></span>
+                  <div style="width: 65%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: rgb(76, 134, 161);"><li>Overall : 4</li></span>
+                  <div style="width: 65%;"></div>
+                </div>
+                </span></td><td>
+                  <span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">
+                    <div class="bar_charts">
+                      <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: red;"><li>Self : 5</li></span>
+                      <div style="width: 75%;"></div>
+                      <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: orange;"><li>Self : 5</li></span>
+                      <div style="width: 45%;"></div>
+                      <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: green;"><li>Peers : 5 </li></span>
+                      <div style="width: 85%;"></div>
+                      <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: purple;"><li>Self : 3</li></span>
+                      <div style="width: 65%;"></div>
+                      <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: rgb(76, 134, 161);"><li>Overall : 4</li></span>
+                      <div style="width: 65%;"></div>
+                    </div>
+                  </span>
+                </td>
+          </tr><tr style="background-color:Transparent;">
+            <td style="border-color:#ddd;font-size:9pt;"><span title="More Details" OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/ViewKpa.asp?KPA_ID=2703&amp;SheetId=1515&amp;userid=11&amp;assgrpid=4&#39;);" style="cursor:pointer;">IT Security and Governance</span></td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">
+              <div class="bar_charts">
+                <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: red;"><li>Self : 5</li></span>
+                <div style="width: 75%;"></div>
+                <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: orange;"><li>Self : 5</li></span>
+                <div style="width: 45%;"></div>
+                <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: green;"><li>Peers : 5 </li></span>
+                <div style="width: 85%;"></div>
+                <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: purple;"><li>Self : 3</li></span>
+                <div style="width: 65%;"></div>
+                <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: rgb(76, 134, 161);"><li>Overall : 4</li></span>
+                <div style="width: 65%;"></div>
+              </div>
+          </span></td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">
+                <div class="bar_charts">
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: red;"><li>Self : 5</li></span>
+                  <div style="width: 75%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: orange;"><li>Self : 5</li></span>
+                  <div style="width: 45%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: green;"><li>Peers : 5 </li></span>
+                  <div style="width: 85%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: purple;"><li>Self : 3</li></span>
+                  <div style="width: 65%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: rgb(76, 134, 161);"><li>Overall : 4</li></span>
+                  <div style="width: 65%;"></div>
+                </div>
+               </span></td><td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar2.asp?sas7_1=3&amp;fas7=3&amp;p=4_1515_11_24_2703&amp;pv=r&amp;sas8_1=5&amp;sas8_2=5&amp;sas8_5=5&amp;fas8=5&amp;p=4_1515_11_24_2703&amp;pv=r&amp;stas=4&amp;typ=bar&#39;);" style="border-color:#ddd;cursor:pointer;"><span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">
+                <div class="bar_charts">
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: red;"><li>Self : 5</li></span>
+                  <div style="width: 75%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: orange;"><li>Self : 5</li></span>
+                  <div style="width: 45%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: green;"><li>Peers : 5 </li></span>
+                  <div style="width: 85%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: purple;"><li>Self : 3</li></span>
+                  <div style="width: 65%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: rgb(76, 134, 161);"><li>Overall : 4</li></span>
+                  <div style="width: 65%;"></div>
+                </div>
+               </span></td>
+          </tr><tr style="background-color:White;">
+            <td style="border-color:#ddd;font-size:9pt;"><span title="More Details" OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/ViewKpa.asp?KPA_ID=2706&amp;SheetId=1515&amp;userid=11&amp;assgrpid=4&#39;);" style="cursor:pointer;">IT Management Information Systems</span></td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">
+              <div class="bar_charts">
+                <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: red;"><li>Self : 5</li></span>
+                <div style="width: 75%;"></div>
+                <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: orange;"><li>Self : 5</li></span>
+                <div style="width: 45%;"></div>
+                <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: green;"><li>Peers : 5 </li></span>
+                <div style="width: 85%;"></div>
+                <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: purple;"><li>Self : 3</li></span>
+                <div style="width: 65%;"></div>
+                <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: rgb(76, 134, 161);"><li>Overall : 4</li></span>
+                <div style="width: 65%;"></div>
+              </div>
+              </span></td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">
+                <div class="bar_charts">
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: red;"><li>Self : 5</li></span>
+                  <div style="width: 75%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: orange;"><li>Self : 5</li></span>
+                  <div style="width: 45%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: green;"><li>Peers : 5 </li></span>
+                  <div style="width: 85%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: purple;"><li>Self : 3</li></span>
+                  <div style="width: 65%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: rgb(76, 134, 161);"><li>Overall : 4</li></span>
+                  <div style="width: 65%;"></div>
+                </div>
+                </span></td>
+                <td>
+                  <span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">
+                    <div class="bar_charts">
+                      <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: red;"><li>Self : 5</li></span>
+                      <div style="width: 75%;"></div>
+                      <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: orange;"><li>Self : 5</li></span>
+                      <div style="width: 45%;"></div>
+                      <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: green;"><li>Peers : 5 </li></span>
+                      <div style="width: 85%;"></div>
+                      <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: purple;"><li>Self : 3</li></span>
+                      <div style="width: 65%;"></div>
+                      <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: rgb(76, 134, 161);"><li>Overall : 4</li></span>
+                      <div style="width: 65%;"></div>
+                    </div>
+                    </span>
+                </td>
+          </tr><tr style="background-color:Transparent;">
+            <td style="border-color:#ddd;font-size:9pt;"><span title="More Details" OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/ViewKpa.asp?KPA_ID=5887&amp;SheetId=1515&amp;userid=11&amp;assgrpid=4&#39;);" style="cursor:pointer;">Delivery against Corporate Services Division APP</span></td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">36,36 20 %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=5887&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=7&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  3</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=3&amp;fas7=3&amp;p=4_1515_11_24_5887&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; 3</span>&nbsp;</td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">36,36 20 %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=5887&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  5</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=5887&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  5</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=5887&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Agreed :  5</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=3&amp;fas7=3&amp;p=4_1515_11_24_5887&amp;pv=r&amp;sas8_1=5&amp;sas8_2=5&amp;sas8_5=5&amp;fas8=5&amp;p=4_1515_11_24_5887&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; 5</span>&nbsp;</td><td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar2.asp?sas7_1=3&amp;fas7=3&amp;p=4_1515_11_24_5887&amp;pv=r&amp;sas8_1=5&amp;sas8_2=5&amp;sas8_5=5&amp;fas8=5&amp;p=4_1515_11_24_5887&amp;pv=r&amp;stas=4&amp;typ=bar&#39;);" style="border-color:#ddd;cursor:pointer;">
+              <span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">
+                <div class="bar_charts">
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: red;"><li>Self : 5</li></span>
+                  <div style="width: 75%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: orange;"><li>Self : 5</li></span>
+                  <div style="width: 45%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: green;"><li>Peers : 5 </li></span>
+                  <div style="width: 85%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: purple;"><li>Self : 3</li></span>
+                  <div style="width: 65%;"></div>
+                  <span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=1&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:300px;cursor:pointer; color: rgb(76, 134, 161);"><li>Overall : 4</li></span>
+                  <div style="width: 65%;"></div>
+                </div>
+                 </span>  
+            </td>
+          </tr><tr OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar.asp?sas7_2701=4&amp;sas8_2701=4&amp;stas_2701=4&amp;sas7_2703=3&amp;sas8_2703=5&amp;stas_2703=4&amp;sas7_2706=3&amp;sas8_2706=5&amp;stas_2706=4&amp;sas7_5887=3&amp;sas8_5887=5&amp;stas_5887=4&amp;p=4_1515_11_24&amp;pv=r&amp;qas7=3,25&amp;qas8=4,75&amp;tas=4,00&#39;);" style="cursor:pointer;">
+            <td align="right" style="background-color:LightGrey;border-color:#ddd;">Dimensional Score&nbsp;:&nbsp;</td><td style="background-color:LightGrey;border-color:#ddd;"> 3,25</td><td style="background-color:LightGrey;border-color:#ddd;"> 4,75</td><td style="background-color:LightGrey;border-color:#ddd;"><span style="font-weight:bold;"> 4,00</span>  </td>
+           </tr><tr style="background-color:White;">
+            <td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/pie.asp?p=4_1515_11_8&amp;pv=r&amp;gwa8=0&amp;gwr8=0&amp;gwa24=0&amp;gwr24=0&amp;gwa38=0&amp;gwr38=0&amp;typ=pie&#39;);" rowspan="2" style="background-color:Transparent;border-color:#ddd;cursor:pointer;"><b>2.2. Risk KPA for D1 and above</b><br/><font color='Teal'>0 0 %</font></td><td style="border-color:#ddd;font-size:9pt;"><span title="More Details" OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/ViewKpa.asp?KPA_ID=6386&amp;SheetId=1515&amp;userid=11&amp;assgrpid=4&#39;);" style="cursor:pointer;">% of identified risks with mitigatio...</span></td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">100 5 %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6386&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=7&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  4</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_38_6386&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; 4</span>&nbsp;</td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">100 5 %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6386&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  5</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6386&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  5</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6386&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Agreed :  5</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_38_6386&amp;pv=r&amp;sas8_1=5&amp;sas8_2=5&amp;sas8_5=5&amp;fas8=5&amp;p=4_1515_11_38_6386&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; 5</span>&nbsp;</td><td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar2.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_38_6386&amp;pv=r&amp;sas8_1=5&amp;sas8_2=5&amp;sas8_5=5&amp;fas8=5&amp;p=4_1515_11_38_6386&amp;pv=r&amp;stas=4,5&amp;typ=bar&#39;);" style="border-color:#ddd;cursor:pointer;"><span title="Dimensional Score per KPA" style="font-weight:bold;"> 4,5</span></td>
+          </tr><tr OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar.asp?sas7_6386=4&amp;sas8_6386=5&amp;stas_6386=4,5&amp;p=4_1515_11_38&amp;pv=r&amp;qas7=4&amp;qas8=5&amp;tas=4,5&#39;);" style="cursor:pointer;">
+            <td align="right" style="background-color:LightGrey;border-color:#ddd;">Dimensional Score&nbsp;:&nbsp;</td><td style="background-color:LightGrey;border-color:#ddd;"> 4</td><td style="background-color:LightGrey;border-color:#ddd;"> 5</td><td style="background-color:LightGrey;border-color:#ddd;"><span style="font-weight:bold;"> 4,5</span></td>
+          </tr><tr style="background-color:Transparent;">
+            <td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/pie.asp?p=4_1515_11_8&amp;pv=r&amp;gwa8=0&amp;gwr8=0&amp;gwa24=0&amp;gwr24=0&amp;gwa38=0&amp;gwr38=0&amp;gwa40=0&amp;gwr40=0&amp;typ=pie&#39;);" rowspan="2" style="background-color:White;border-color:#ddd;cursor:pointer;"><b>2.4. Finance KPA for all non-financial Man, SM and EXEC</b><br/><font color='Teal'>0 0 %</font></td><td style="border-color:#ddd;font-size:9pt;"><span title="More Details" OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/ViewKpa.asp?KPA_ID=6388&amp;SheetId=1515&amp;userid=11&amp;assgrpid=4&#39;);" style="cursor:pointer;">Approval of invoices</span></td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">100 5 %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6388&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=7&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  4</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_40_6388&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; 4</span>&nbsp;</td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">100 5 %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6388&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  4</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6388&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  4</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6388&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Agreed :  5</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_40_6388&amp;pv=r&amp;sas8_1=4&amp;sas8_2=4&amp;sas8_5=5&amp;fas8=4,33&amp;p=4_1515_11_40_6388&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; 4,33</span>&nbsp;</td><td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar2.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_40_6388&amp;pv=r&amp;sas8_1=4&amp;sas8_2=4&amp;sas8_5=5&amp;fas8=4,33&amp;p=4_1515_11_40_6388&amp;pv=r&amp;stas=4,17&amp;typ=bar&#39;);" style="border-color:#ddd;cursor:pointer;"><span title="Dimensional Score per KPA" style="font-weight:bold;"> 4,17</span></td>
+          </tr>
+          <tr OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar.asp?sas7_6388=4&amp;sas8_6388=4,33&amp;stas_6388=4,17&amp;p=4_1515_11_40&amp;pv=r&amp;qas7=4&amp;qas8=4,33&amp;tas=4,17&#39;);" style="cursor:pointer;">
+            <td align="right" style="background-color:LightGrey;border-color:#ddd;">Dimensional Score&nbsp;:&nbsp;</td><td style="background-color:LightGrey;border-color:#ddd;"> 4</td><td style="background-color:LightGrey;border-color:#ddd;"> 4,33</td><td style="background-color:LightGrey;border-color:#ddd;"><span style="font-weight:bold;"> 4,17</span></td>
+          </tr>
+          <tr style="background-color:White;">
+            <td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/pie.asp?p=4_1515_11_8&amp;pv=r&amp;gwa8=0&amp;gwr8=0&amp;gwa24=0&amp;gwr24=0&amp;gwa38=0&amp;gwr38=0&amp;gwa40=0&amp;gwr40=0&amp;gwa44=0&amp;gwr44=0&amp;typ=pie&#39;);" rowspan="2" style="background-color:Transparent;border-color:#ddd;cursor:pointer;"><b>2.8. Finance Compliance KPA  for Exec, GM, SM and Man</b><br/><font color='Teal'>0 0 %</font></td><td style="border-color:#ddd;font-size:9pt;"><span title="More Details" OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/ViewKpa.asp?KPA_ID=6392&amp;SheetId=1515&amp;userid=11&amp;assgrpid=4&#39;);" style="cursor:pointer;">Financial Compliance </span></td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">100 10 %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6392&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=7&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  4</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_44_6392&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; 4</span>&nbsp;</td><td valign="top" style="border-color:#ddd;white-space:nowrap;"><span title="Relative Weight Actual Weight" style="color:Teal;font-size:10pt;">100 10 %</span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6392&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=1&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  4</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6392&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=2&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Self :  4</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/DoPerformance/DoPMNew.asp?KPA_ID=6392&amp;SheetId=1515&amp;UserId=11&amp;AssGrpId=4&amp;SheetType=5&amp;reviewperiod=8&#39;);" style="font-size:10pt;font-weight:bold;cursor:pointer;"><li>Agreed :  4</li></span><span OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/pie-basic/bars.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_44_6392&amp;pv=r&amp;sas8_1=4&amp;sas8_2=4&amp;sas8_5=4&amp;fas8=4&amp;p=4_1515_11_44_6392&amp;pv=r&amp;typ=bar&#39;);" style="color:CornflowerBlue;font-weight:bold;cursor:pointer;"><br/>&nbsp; 4</span>&nbsp;</td><td OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar2.asp?sas7_1=4&amp;fas7=4&amp;p=4_1515_11_44_6392&amp;pv=r&amp;sas8_1=4&amp;sas8_2=4&amp;sas8_5=4&amp;fas8=4&amp;p=4_1515_11_44_6392&amp;pv=r&amp;stas=4&amp;typ=bar&#39;);" style="border-color:#ddd;cursor:pointer;"><span title="Dimensional Score per KPA" style="font-weight:bold;"> 4</span></td>
+          </tr>
+          <tr OnClick="javascript:ShowUploader(&#39;localhost:80/segogi/grafs/column-basic/bar.asp?sas7_6392=4&amp;sas8_6392=4&amp;stas_6392=4&amp;p=4_1515_11_44&amp;pv=r&amp;qas7=4&amp;qas8=4&amp;tas=4&#39;);" style="cursor:pointer;">
+            <td align="right" style="background-color:LightGrey;border-color:#ddd;">Dimensional Score&nbsp;:&nbsp;</td><td style="background-color:LightGrey;border-color:#ddd;"> 4</td><td style="background-color:LightGrey;border-color:#ddd;"> 4</td><td style="background-color:LightGrey;border-color:#ddd;"><span style="font-weight:bold;"> 4</span></td>
+          </tr>
+          <tr style="font-weight:bold;cursor:pointer;">
+            <td class="rgFooter">Overall Totals</td><td class="rgFooter" align="right" style="white-space:nowrap;"><span onclick="ShowUploader(&#39;http://localhostlocalhost:80/segogi//doperformance/Upload/AddFile.asp?LinkID=1514&amp;reviewperiod=0&amp;userid=11&amp;sheetid=1515&amp;assgrpid=4&amp;typelink=0&#39;);" style="color:Blue;cursor:pointer;">View Evidence</span><b>&nbsp;&nbsp;|&nbsp;&nbsp;</b><b>Weighted Score&nbsp;Dimensional Score&nbsp;:&nbsp;</b><span></span></td><td class="rgFooter"><span title="Dimensional Score"> 3,85</span></td><td class="rgFooter"><span title="Dimensional Score"> 4,62</span></td><td title="Year to date" class="rgFooter"><span style="font-weight:bold;">&nbsp;4,23</span></td>
+          </tr> 
+        </table>
+</ion-card>
+         </ion-col>
+         <ion-col>
+        
+            <app-simple-fields></app-simple-fields>
+          
+        </ion-col>
+       </ion-row>
+     </ion-grid>    
+        
+</ion-content> -->
